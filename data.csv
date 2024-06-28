@@ -1,0 +1,1001 @@
+college_name,fees,established_on,courses_offered,class_timings,cutoff_marks,facilities,location_lat,location_lon
+Symbiosis International University,194903,1983,"BBA, B.Sc, MCA",9 AM - 5 PM,74,"Research Centers, Sports Complex, Labs",19.76889639840435,93.33192268101288
+SRM Institute of Science and Technology,225633,1958,B.Tech,8 AM - 5 PM,90,"Labs, Hostels",27.943703728258978,86.10733907669491
+Manipal University,236292,2001,"MBA, BBA",9 AM - 6 PM,83,"Hostels, Labs, Library",32.51276633683561,70.79962505809227
+Anna University,139361,1956,BCA,9 AM - 5 PM,86,"Hostels, Labs, Library, Cafeteria, Sports Complex",29.139643425517082,86.87089956489933
+IIM Calcutta,105212,1951,"BBA, B.Tech",10 AM - 6 PM,85,"Hostels, Sports Complex, Research Centers",31.905636653541304,78.99628007349308
+Symbiosis International University,53501,1977,"B.Sc, M.Sc, Ph.D",9 AM - 6 PM,92,"Gym, Sports Complex, Hostels, Library",20.087114376131822,72.00561273246953
+Indian Institute of Technology Bombay,214332,2016,"B.Sc, B.Tech, MBA",8 AM - 4 PM,94,"Sports Complex, Library, Research Centers, Hostels, Cafeteria",25.04028245301186,94.73154316306619
+IIM Ahmedabad,126269,2017,BBA,9 AM - 3 PM,90,"Sports Complex, Research Centers, Labs",28.40824613022353,82.35077675774632
+Jadavpur University,272367,1955,"MCA, Ph.D",9 AM - 5 PM,77,"Gym, Labs, Library, Research Centers",8.214242258706124,89.30669313350688
+University of Mumbai,132830,1963,"B.Sc, MBA",9 AM - 3 PM,66,"Research Centers, Sports Complex, Labs, Gym, Library",10.750368485776306,85.36281808842759
+Indian School of Business,249134,2015,B.Sc,9 AM - 4 PM,88,"Sports Complex, Library, Cafeteria, Gym, Hostels",31.202006673895593,74.88674093769878
+Banaras Hindu University,137617,1972,"Ph.D, B.Tech",8 AM - 5 PM,80,"Gym, Labs, Research Centers",24.092011035647996,96.75450597124359
+Indian School of Business,88700,1961,"B.Sc, MBA, MBBS",9 AM - 4 PM,74,"Cafeteria, Library, Hostels, Sports Complex",20.946306534230064,84.63916083428839
+Anna University,234805,1967,"Ph.D, BCA",10 AM - 6 PM,66,"Labs, Hostels, Sports Complex, Library, Cafeteria",17.548472966028577,87.07515195306216
+Delhi University,262819,1998,"MCA, Ph.D, M.Tech",10 AM - 5 PM,81,"Labs, Sports Complex, Library, Cafeteria, Gym",12.107455841090434,68.16609356869499
+"Birla Institute of Technology and Science, Pilani",118616,1988,B.Tech,10 AM - 3 PM,95,"Library, Cafeteria",35.73452555058881,93.77762718662889
+Xavier School of Management (XLRI),242182,1980,"MBA, M.Sc",9 AM - 4 PM,95,"Hostels, Labs, Library",19.159411970382813,94.79895640055244
+Indian Institute of Technology Bombay,76006,2012,B.Sc,10 AM - 5 PM,75,"Sports Complex, Hostels",34.03098755653393,76.32649431132117
+Indian Institute of Technology Kanpur,115620,1951,"BCA, B.Sc",8 AM - 6 PM,92,"Sports Complex, Labs, Gym, Library, Research Centers",21.739836477775686,87.91161211889337
+Christ University,21582,1975,"BCA, MCA, B.Sc",9 AM - 6 PM,61,"Research Centers, Hostels",30.23976418200101,81.86312335224906
+University of Calcutta,72313,1959,"MCA, MBBS",8 AM - 5 PM,92,"Labs, Gym, Library",31.549987983420923,86.94748143603219
+Jamia Millia Islamia,57851,1994,"BBA, MBA",10 AM - 3 PM,96,"Research Centers, Labs, Library",35.52643972836655,96.14059541974768
+Tata Institute of Social Sciences,50909,1987,"B.Sc, MBBS",8 AM - 6 PM,92,"Research Centers, Cafeteria",14.175794055276073,94.17025430418039
+SRM Institute of Science and Technology,88732,2013,"B.Tech, B.Sc",9 AM - 5 PM,81,"Library, Gym, Research Centers",31.403535239298026,77.15876190776657
+IIM Calcutta,260497,1983,"BCA, Ph.D",9 AM - 5 PM,80,"Sports Complex, Gym",19.909347990010332,88.86284327195926
+Indian Institute of Science,159419,2003,Ph.D,8 AM - 3 PM,84,"Cafeteria, Research Centers, Labs",30.871632198360512,79.81007383504304
+Indian Institute of Technology Madras,213848,1975,B.Sc,10 AM - 5 PM,88,"Library, Cafeteria, Sports Complex",17.43465181329452,88.1459852523493
+Jawaharlal Nehru University,256359,1981,"B.Sc, MBBS",8 AM - 4 PM,100,"Hostels, Sports Complex",34.60276581101548,70.06095765390388
+"National Institute of Technology, Trichy",168272,2018,"BBA, BCA",8 AM - 6 PM,83,"Hostels, Gym",27.893223694565464,88.38798367262342
+Delhi University,121235,2017,"Ph.D, BBA",9 AM - 6 PM,76,"Labs, Research Centers, Cafeteria, Gym",21.183501445117905,73.80594167189737
+Petty and Sons College,26048,1995,"MBBS, BCA",9 AM - 3 PM,98,"Hostels, Labs, Library, Sports Complex",11.339055660385156,75.63884933666596
+Reyes PLC College,29473,1977,"M.Tech, Ph.D, B.Tech",8 AM - 6 PM,64,"Library, Cafeteria, Gym, Labs",22.860471160528355,71.7534439129197
+Watts-Flores College,130304,1985,"M.Tech, BCA",9 AM - 6 PM,91,"Sports Complex, Cafeteria, Research Centers, Gym",25.8151815218199,74.39058556599672
+Fitzpatrick-Lee College,236311,2016,"BCA, MBA, B.Sc",9 AM - 4 PM,61,"Gym, Research Centers, Sports Complex",12.244405386727859,72.02609419489245
+Stewart PLC College,130490,1962,"MCA, BCA",8 AM - 3 PM,62,"Library, Gym",27.71972855318171,95.03067581322473
+Pearson-Le College,267158,1993,"B.Sc, Ph.D",8 AM - 3 PM,100,"Labs, Gym, Cafeteria, Research Centers",36.69626009613104,82.23647760174839
+Wright Ltd College,242560,1965,"B.Tech, B.Sc",9 AM - 4 PM,79,"Library, Hostels",36.8118223691404,95.1146159581277
+Collins-Garcia College,88545,1996,"M.Sc, B.Tech, MBBS",10 AM - 6 PM,77,"Labs, Library, Gym",32.821306109375705,68.90483806394224
+Moody LLC College,190625,2015,"M.Sc, B.Tech, M.Tech",10 AM - 3 PM,79,"Gym, Research Centers, Library, Hostels, Sports Complex",10.666048651441109,79.01127879913939
+Velasquez-Peterson College,228324,1994,BCA,8 AM - 6 PM,91,"Cafeteria, Research Centers, Hostels, Sports Complex, Labs",13.88694074091044,85.57534591781224
+Hudson Ltd College,124216,2005,MBBS,8 AM - 3 PM,66,"Gym, Cafeteria, Hostels",26.57408630074298,91.58116237631239
+Burns-Castaneda College,118869,1992,MBBS,10 AM - 5 PM,85,"Labs, Research Centers, Library, Hostels",14.354911913587076,77.78305384208007
+Hill-Yang College,205054,1960,MBA,8 AM - 4 PM,67,"Cafeteria, Research Centers, Sports Complex, Gym, Hostels",22.27477894621994,79.68232996812398
+Morgan and Sons College,218957,2014,BCA,10 AM - 3 PM,84,"Library, Sports Complex, Cafeteria, Gym, Research Centers",20.99758288347868,68.01839656132397
+Dickerson-Johnson College,235108,1987,"BCA, MBBS, M.Tech",9 AM - 6 PM,92,"Sports Complex, Labs, Hostels, Gym, Library",27.394372096325956,81.9075384651361
+"Scott, Davenport and Copeland College",89527,1997,"BCA, MBBS, MBA",8 AM - 3 PM,62,"Hostels, Gym, Sports Complex",26.835190892032372,86.40540955888576
+Schneider-Franklin College,181178,1982,B.Sc,10 AM - 5 PM,82,"Research Centers, Sports Complex, Gym",17.994699126947296,94.49652028381294
+"Vincent, Payne and Martin College",173730,2019,MBA,8 AM - 3 PM,89,"Cafeteria, Sports Complex, Labs",12.174884326406179,87.45751773123256
+"Barnes, Burton and Cannon College",41812,1968,"MCA, B.Tech, MBBS",10 AM - 3 PM,62,"Research Centers, Sports Complex, Hostels, Library",10.019515407435977,76.23727585445779
+Walls-Newman College,106636,2005,"BBA, MCA",8 AM - 4 PM,77,"Sports Complex, Library, Labs, Research Centers",14.445228515888168,69.27628629900987
+West Group College,294791,1956,"Ph.D, BBA, MCA",10 AM - 5 PM,60,"Labs, Sports Complex, Gym",35.043952497346325,94.4196723634242
+"Owens, Pena and Knight College",116358,2000,"M.Sc, B.Tech, BBA",10 AM - 5 PM,86,"Sports Complex, Hostels, Library, Gym, Labs",25.74698538455381,92.18364018555397
+"May, Henry and Montgomery College",61036,1954,"MBBS, B.Sc, M.Sc",9 AM - 5 PM,98,"Labs, Library",30.37548285722484,84.8745388965525
+"Roth, Chaney and Jones College",128542,1985,"Ph.D, BBA, M.Tech",8 AM - 3 PM,83,"Library, Labs, Hostels",27.559856432955794,74.08775416343495
+"Jones, Calderon and Smith College",112991,1953,B.Tech,10 AM - 4 PM,88,"Cafeteria, Research Centers, Hostels, Library",11.44641045530506,69.37556450034766
+Russell-Vasquez College,74578,2005,"B.Tech, MBBS",9 AM - 3 PM,60,"Hostels, Sports Complex, Research Centers",21.03928139199615,82.9647766962168
+Oliver Ltd College,228355,1956,M.Sc,8 AM - 5 PM,86,"Research Centers, Library, Sports Complex, Labs",30.997870293409697,76.94767880463222
+Frey LLC College,201691,1996,"MBBS, MBA",10 AM - 3 PM,70,"Labs, Research Centers",30.264085693294195,85.70556345937166
+"Haynes, Trujillo and Shelton College",217255,1980,"BBA, M.Sc",9 AM - 4 PM,100,"Library, Labs, Sports Complex, Hostels, Research Centers",36.84736409037078,79.62774129470276
+"Miller, Klein and Young College",204230,2002,B.Tech,9 AM - 5 PM,63,"Research Centers, Library",17.405518590928033,74.62287915197989
+Lewis and Sons College,29634,1978,"B.Tech, B.Sc, BBA",9 AM - 3 PM,100,"Sports Complex, Hostels, Research Centers",22.190281713193684,82.01006509233764
+"Thomas, Buchanan and Payne College",156934,2009,"MCA, B.Tech, M.Sc",9 AM - 4 PM,88,"Cafeteria, Labs, Research Centers, Library, Sports Complex",27.413262138370108,68.10864029970692
+"Owens, Ross and Watson College",107222,1960,M.Sc,10 AM - 3 PM,66,"Hostels, Library, Gym",28.61890087449295,88.68380303718403
+Bailey PLC College,259256,1962,M.Sc,9 AM - 5 PM,87,"Library, Hostels, Research Centers, Labs, Cafeteria",34.95734205050521,79.10316617480188
+Joseph Group College,289336,1953,MBA,10 AM - 5 PM,63,"Gym, Sports Complex",36.06678396665193,86.39610597625972
+"Lewis, Hudson and Duncan College",238823,1971,"B.Tech, Ph.D",10 AM - 5 PM,61,"Labs, Library",18.4582826450014,96.24556075323198
+Lewis PLC College,152232,1986,"BCA, MBA, MBBS",8 AM - 6 PM,79,"Library, Research Centers, Hostels, Cafeteria, Labs",18.815171891477526,89.49017853308249
+Nolan LLC College,137707,1970,"Ph.D, MBBS",10 AM - 3 PM,75,"Gym, Sports Complex, Cafeteria, Research Centers, Library",34.15274865685906,68.7192826207284
+Evans PLC College,183449,1963,"M.Sc, MCA",10 AM - 4 PM,96,"Sports Complex, Research Centers, Hostels",14.891707065382988,89.78397688786718
+"Martinez, Wilson and Hart College",168145,1961,"Ph.D, MCA",10 AM - 3 PM,77,"Hostels, Labs",18.338669102878974,76.68758001536365
+"Walker, Flores and Coleman College",158264,1990,MCA,10 AM - 5 PM,100,"Labs, Gym, Cafeteria, Hostels",32.166470440895324,80.80868669059006
+"Delacruz, Short and Martin College",294623,1991,"MBBS, BCA, MCA",9 AM - 3 PM,60,"Research Centers, Cafeteria, Hostels",33.8828784932645,90.56222702632886
+Howell-Vasquez College,105823,1976,BBA,10 AM - 5 PM,97,"Hostels, Sports Complex",31.233522741198765,82.63850188733458
+Dunn Ltd College,162329,2020,MBBS,10 AM - 4 PM,71,"Sports Complex, Labs, Cafeteria",22.414890580754516,82.7866354265789
+Jacobson-Mclaughlin College,204911,1984,"MBBS, Ph.D",10 AM - 5 PM,95,"Research Centers, Library, Sports Complex, Hostels",23.378527340913244,72.5326036524394
+"Chase, Mitchell and Garcia College",283442,2010,"M.Tech, M.Sc, Ph.D",10 AM - 4 PM,62,"Hostels, Research Centers, Gym, Cafeteria",33.26015451879722,87.55889860029052
+Freeman-Church College,235483,1965,"MBBS, B.Sc, MCA",9 AM - 6 PM,93,"Cafeteria, Research Centers, Sports Complex",21.45397092197007,73.40731941083413
+Brown Inc College,277672,1978,"M.Tech, MBBS, B.Tech",8 AM - 4 PM,62,"Gym, Research Centers, Library",15.81640113327089,94.76149768766709
+Velez and Sons College,285660,1963,B.Sc,8 AM - 3 PM,74,"Gym, Labs, Research Centers, Cafeteria, Library",15.237134214151737,70.25133788813918
+Harris-Stark College,292548,1973,B.Sc,9 AM - 6 PM,98,"Labs, Research Centers, Hostels, Cafeteria, Library",9.886317127095937,94.99925943674113
+Andrews-Morris College,176122,2014,"BCA, B.Sc",9 AM - 4 PM,91,"Research Centers, Labs, Hostels",13.283914760468164,93.29101681261672
+Taylor-Lawson College,113165,1964,Ph.D,8 AM - 3 PM,72,"Research Centers, Library, Hostels",32.03711568173331,90.2495667584459
+"Brown, Snyder and Li College",238680,1980,"MBA, M.Sc, MCA",8 AM - 3 PM,73,"Gym, Library",21.80187733470204,94.13902771761919
+Griffin-Chambers College,269734,1964,"BBA, MBA",8 AM - 5 PM,71,"Library, Gym",35.36479256886175,93.2430625131868
+Walker Ltd College,286840,1974,BBA,9 AM - 3 PM,92,"Hostels, Research Centers, Cafeteria",17.897356163358197,85.53337230008526
+"Stewart, Harrison and Marquez College",68128,1974,BBA,8 AM - 6 PM,62,"Hostels, Research Centers, Gym, Labs",22.415083663277045,85.34146316256654
+"Best, Matthews and Conway College",223532,1971,"MCA, MBA",10 AM - 3 PM,75,"Cafeteria, Sports Complex, Hostels, Labs",31.12111321529467,83.0965780356476
+"Valdez, Carr and Miller College",73112,1963,"M.Tech, BBA, M.Sc",9 AM - 3 PM,62,"Gym, Library, Hostels, Labs",10.00095746285043,73.7545026571391
+"Garcia, Whitney and Jones College",263789,1964,"M.Tech, MBBS",8 AM - 6 PM,85,"Hostels, Sports Complex, Library, Research Centers",10.535767828359251,74.21642068110495
+Barron-Williams College,46689,1995,"B.Tech, MBBS, B.Sc",9 AM - 5 PM,68,"Gym, Hostels",18.61177998371211,80.59718788636063
+Ward-Calderon College,105433,1982,"M.Sc, MBBS, B.Sc",8 AM - 4 PM,89,"Cafeteria, Labs",32.698978042323375,78.96274231054929
+"Adams, Hunter and Gould College",110239,1977,M.Tech,10 AM - 6 PM,92,"Sports Complex, Gym, Cafeteria, Hostels, Library",18.934994463882564,96.19917704933545
+"Lambert, Ruiz and Smith College",88708,1970,M.Tech,8 AM - 6 PM,70,"Sports Complex, Library",27.411920218736608,83.2055581264064
+Evans-Wade College,254814,2016,"MCA, B.Tech, MBBS",8 AM - 5 PM,84,"Cafeteria, Library, Hostels, Gym, Sports Complex",35.24946317058007,73.88495184511652
+Wells PLC College,170264,1989,BCA,9 AM - 4 PM,87,"Hostels, Library, Sports Complex, Cafeteria, Gym",9.93830499344104,69.5129854134096
+"Graham, Price and Brown College",171159,1994,"BBA, BCA, M.Sc",10 AM - 6 PM,67,"Gym, Sports Complex, Cafeteria, Labs, Hostels",32.844641933639494,81.57513266622091
+Martin and Sons College,283423,1972,"MBA, BCA, MCA",9 AM - 4 PM,90,"Hostels, Sports Complex, Research Centers, Labs",22.111350238676735,84.99429093507388
+"Love, Perez and Monroe College",286586,2013,B.Tech,8 AM - 5 PM,80,"Labs, Research Centers, Sports Complex",21.812373068296193,86.10895633148165
+Diaz-Perry College,133025,1955,"BCA, Ph.D, M.Tech",8 AM - 4 PM,64,"Research Centers, Hostels, Cafeteria, Library",20.659498535430608,78.33095632823634
+Lynn Inc College,94075,1958,MCA,10 AM - 5 PM,76,"Labs, Hostels",11.850978252006456,71.70674095681956
+Christensen Group College,61991,1959,Ph.D,10 AM - 6 PM,77,"Gym, Hostels",33.55905794822361,92.81741131611749
+Bass and Sons College,181689,1976,"MBBS, Ph.D, B.Tech",8 AM - 6 PM,68,"Hostels, Labs",15.905389304196444,88.11095238067234
+Melton Group College,260676,1964,"BBA, MBBS, MBA",10 AM - 3 PM,97,"Labs, Sports Complex, Gym",26.45786023576348,84.11808677527404
+Rivera LLC College,130497,1976,B.Sc,10 AM - 6 PM,76,"Library, Hostels, Gym",11.577666647712336,70.26578272015531
+Chavez-Holmes College,21389,2002,MBA,8 AM - 3 PM,95,"Sports Complex, Labs, Gym, Library, Research Centers",25.120598795993406,69.96915003714008
+Hernandez Group College,107020,2006,MCA,10 AM - 6 PM,75,"Library, Gym, Sports Complex, Hostels, Research Centers",14.109309963938664,80.07345551818166
+Burke-Richards College,25478,1966,"MBA, Ph.D",10 AM - 4 PM,99,"Research Centers, Library, Labs, Gym, Sports Complex",10.771619729377088,76.20235442232708
+Lambert-Davis College,34990,1968,B.Tech,8 AM - 4 PM,84,"Cafeteria, Labs, Library",15.038500436097387,94.19727632348818
+Harris-Williams College,194342,1999,"MBBS, BBA, B.Tech",9 AM - 4 PM,88,"Labs, Research Centers, Hostels, Gym",25.362876721558344,81.91799703348224
+Robles-Pearson College,160841,2013,M.Sc,10 AM - 4 PM,70,"Library, Hostels, Research Centers, Labs",31.176439136009076,94.35346148200941
+"Allen, Wheeler and Mack College",258776,1969,"M.Tech, B.Sc, MBA",8 AM - 4 PM,62,"Library, Labs, Cafeteria, Research Centers",32.7501828469332,95.40600285557164
+Griffin Group College,191293,1982,"BBA, M.Tech",8 AM - 5 PM,67,"Labs, Cafeteria, Library, Research Centers",8.25031390466317,78.52703856715404
+"Austin, Henry and Beck College",220464,1968,"B.Tech, B.Sc, BCA",9 AM - 4 PM,79,"Hostels, Library, Gym",25.92502423770839,93.6656357055805
+Carpenter-Coleman College,143393,1989,B.Sc,10 AM - 6 PM,74,"Sports Complex, Cafeteria, Hostels",13.704833406387822,90.05488113414908
+Houston LLC College,143698,2015,"M.Sc, MBBS, Ph.D",9 AM - 4 PM,61,"Labs, Hostels, Sports Complex",26.26945761343953,79.68826860217432
+Branch Group College,233197,2020,MCA,9 AM - 4 PM,63,"Library, Cafeteria, Labs",32.20599267596874,85.87131076525105
+Greene-Osborne College,141916,1994,M.Sc,10 AM - 4 PM,75,"Cafeteria, Library, Research Centers",27.17323747696405,80.05081657707069
+Shaffer and Sons College,145467,1969,"M.Tech, MBA",10 AM - 5 PM,87,"Sports Complex, Gym",35.7732810186385,86.39556177320114
+Carpenter-Robinson College,267548,1959,"B.Sc, Ph.D, M.Tech",10 AM - 4 PM,94,"Labs, Cafeteria, Library",26.963187502674355,77.66546566057042
+"Caldwell, Perez and Stewart College",249056,2017,Ph.D,8 AM - 4 PM,97,"Cafeteria, Labs, Research Centers, Gym, Library",29.50432558165799,69.91867710449432
+Clark Group College,105622,2012,"BBA, B.Sc",9 AM - 3 PM,61,"Labs, Research Centers, Cafeteria, Library, Gym",23.82397925102838,79.6748773618255
+Wagner and Sons College,105407,2015,M.Tech,10 AM - 4 PM,70,"Cafeteria, Research Centers, Labs, Sports Complex, Gym",28.46358950136959,81.22578083617181
+"Moody, Roberts and Madden College",249695,2010,"M.Tech, BBA, MBBS",9 AM - 5 PM,97,"Gym, Sports Complex, Hostels",32.91858496997045,75.59414334644732
+"Thomas, Perry and Alexander College",195858,1979,MBBS,10 AM - 5 PM,94,"Sports Complex, Hostels, Research Centers, Cafeteria",26.556100763601286,74.93011946221188
+Perry Group College,129017,2003,"M.Sc, BBA",8 AM - 5 PM,90,"Labs, Cafeteria, Library, Gym, Hostels",13.258557574685213,95.37758171612197
+"Shaw, Payne and Hardin College",20946,1997,"M.Sc, B.Sc",8 AM - 4 PM,97,"Gym, Hostels, Sports Complex, Library, Cafeteria",36.76418626639238,73.95347021565624
+White-Robles College,185356,1997,Ph.D,8 AM - 6 PM,74,"Research Centers, Gym, Hostels, Sports Complex",26.62159214017412,78.373177649562
+Benson-Floyd College,88471,2007,"B.Tech, M.Sc",10 AM - 3 PM,67,"Gym, Research Centers",28.793004764108254,73.73990682227904
+Little-Perez College,239911,1953,"M.Tech, MBBS",9 AM - 6 PM,89,"Library, Research Centers, Gym, Cafeteria, Labs",36.73160742607952,78.22742831353217
+Lawson-Rice College,190487,1981,"M.Tech, B.Tech, MBA",8 AM - 4 PM,100,"Hostels, Sports Complex, Cafeteria, Labs, Gym",17.191731938715602,81.28567643534767
+"Lamb, Hayes and Clarke College",84822,1970,"MCA, BBA, Ph.D",8 AM - 3 PM,70,"Library, Research Centers, Hostels, Sports Complex, Labs",31.13101644999098,80.8817252727582
+Boyer LLC College,21860,2011,"BBA, MCA, B.Sc",9 AM - 4 PM,71,"Hostels, Library, Labs, Gym, Cafeteria",33.35106963823662,96.25177481384696
+Joseph and Sons College,68173,1992,"B.Tech, BBA, M.Tech",8 AM - 4 PM,71,"Research Centers, Labs",28.076659685182996,69.66641046643532
+Hawkins-Ruiz College,179965,1950,"Ph.D, MBA",9 AM - 4 PM,65,"Research Centers, Hostels, Library",22.81300772324098,78.69383775056244
+Jordan PLC College,257533,1973,"B.Sc, MBBS",9 AM - 3 PM,90,"Hostels, Sports Complex, Research Centers, Gym",24.828605362241394,75.31738662365484
+Higgins Ltd College,267839,2017,M.Sc,8 AM - 4 PM,96,"Sports Complex, Library",10.37298941127398,96.97098245780869
+"Rush, Luna and Bell College",286074,2000,MBA,8 AM - 4 PM,61,"Gym, Cafeteria, Sports Complex, Hostels, Research Centers",12.565610761382139,87.77740004570336
+Bailey PLC College,108549,1953,B.Tech,9 AM - 3 PM,75,"Sports Complex, Hostels, Research Centers, Cafeteria, Gym",29.618844407855292,75.1385697684188
+Jackson Ltd College,204643,1951,MBA,10 AM - 4 PM,97,"Research Centers, Labs",19.089675128909114,82.78237729187677
+Woods Inc College,55897,1988,"MBA, Ph.D, MCA",10 AM - 4 PM,85,"Gym, Labs, Sports Complex",33.696238779426096,76.39450157514403
+Wilson-Johnson College,297381,1974,"B.Sc, M.Sc",9 AM - 6 PM,90,"Hostels, Labs, Sports Complex, Library",36.34386996854411,94.69042125093627
+Rogers-Brown College,29722,1978,"BCA, Ph.D, B.Tech",8 AM - 3 PM,64,"Gym, Library, Cafeteria, Research Centers",29.988214048224258,96.63642772288274
+Cummings-Stewart College,112113,1979,"MBBS, B.Sc",8 AM - 4 PM,84,"Gym, Sports Complex, Cafeteria, Labs",12.63957618274917,90.95577857044924
+Smith Ltd College,168316,1990,B.Sc,10 AM - 5 PM,94,"Gym, Hostels, Library",15.090597340534295,95.52368082983486
+Joseph LLC College,43332,2012,"BCA, MCA, M.Sc",9 AM - 4 PM,90,"Cafeteria, Hostels, Library, Gym, Research Centers",11.597298955955058,78.7626199791867
+"Hobbs, Walsh and Phillips College",245829,1982,MBA,10 AM - 3 PM,84,"Cafeteria, Hostels, Library, Labs, Sports Complex",32.637797961223896,86.13494443694522
+Chavez PLC College,200123,1977,"MBA, M.Sc",10 AM - 5 PM,69,"Research Centers, Hostels, Labs, Library, Sports Complex",10.096441860284628,89.31864094862041
+Coleman and Sons College,188353,2007,MBA,9 AM - 5 PM,89,"Library, Hostels, Cafeteria, Gym, Sports Complex",29.71174006298669,95.10764845503448
+Lane PLC College,243359,1966,BBA,10 AM - 4 PM,84,"Labs, Gym, Hostels, Library",11.511002204554172,77.7593470036894
+"Young, Barker and Jones College",125253,1994,B.Sc,8 AM - 5 PM,75,"Hostels, Sports Complex, Library, Gym, Cafeteria",12.085431085906482,83.40363666874921
+Saunders-Brooks College,32674,1967,"B.Sc, MCA, BBA",8 AM - 5 PM,65,"Sports Complex, Gym, Hostels, Cafeteria",10.9882309558308,84.37468563014362
+Richmond and Sons College,124953,2017,M.Sc,9 AM - 6 PM,76,"Research Centers, Gym, Cafeteria",34.63062903666345,86.8002458129029
+Wilkins-Haney College,183311,2016,"MBA, BBA",9 AM - 6 PM,90,"Research Centers, Labs, Cafeteria, Gym",23.78444395155253,93.86184068674169
+Case-Fisher College,58065,1966,"MBA, M.Tech",8 AM - 4 PM,93,"Cafeteria, Labs",36.45710506254606,84.51397208582218
+"Swanson, Cole and Payne College",116989,1983,"M.Sc, MCA",8 AM - 3 PM,89,"Hostels, Library, Gym",15.114991743809265,69.90637775673281
+"Rocha, Bowman and Smith College",175014,1998,Ph.D,8 AM - 6 PM,92,"Cafeteria, Research Centers",30.409228403061736,93.40747439883671
+"Gardner, Moran and Lee College",61722,1959,M.Sc,8 AM - 6 PM,87,"Hostels, Sports Complex, Labs",32.54963906917767,77.43303776106691
+Jones Ltd College,299861,1993,"BCA, B.Tech",9 AM - 4 PM,61,"Sports Complex, Cafeteria",24.039573826044485,83.98160703021654
+Martin-Kim College,288974,2018,"M.Tech, MCA",8 AM - 6 PM,77,"Labs, Sports Complex",33.275478570461004,86.15032513875875
+Schmidt-Cox College,197157,1970,"MBBS, B.Tech",8 AM - 6 PM,63,"Hostels, Labs, Cafeteria, Library, Research Centers",17.881573915155776,81.5698173658963
+Lawrence-Johnson College,265021,2017,BCA,10 AM - 3 PM,92,"Gym, Cafeteria",15.47867362748057,78.6399193745197
+Sutton Group College,283838,2020,B.Sc,9 AM - 6 PM,77,"Gym, Hostels, Sports Complex",27.20327506907274,96.39415310766036
+Rivera PLC College,153250,1964,BCA,10 AM - 6 PM,69,"Research Centers, Library, Sports Complex",21.035908575824525,83.48724657579316
+Smith-Johnson College,192140,1979,BBA,10 AM - 3 PM,81,"Labs, Sports Complex, Library, Hostels",25.09108538457425,68.30219274147642
+"Campbell, Spears and Owen College",191975,1985,"M.Tech, MBBS",10 AM - 6 PM,66,"Sports Complex, Research Centers, Gym, Hostels",9.716760237853473,95.51797289756344
+"Dalton, Olson and Burgess College",230343,1979,"MBBS, MCA, M.Sc",10 AM - 3 PM,65,"Library, Labs, Gym, Sports Complex, Hostels",30.386174280279928,95.91715742251702
+Coleman-Gould College,218865,1980,M.Tech,9 AM - 4 PM,82,"Research Centers, Cafeteria, Hostels, Library, Sports Complex",25.804972987041428,93.54893548483824
+Hale-Murphy College,184919,1994,M.Sc,8 AM - 4 PM,65,"Hostels, Labs",8.882062656959889,83.9243353343218
+Green PLC College,56721,1952,M.Tech,8 AM - 4 PM,98,"Library, Cafeteria",35.174599572071656,78.73302852243708
+"Thompson, Smith and Hampton College",38728,1980,"M.Sc, Ph.D",9 AM - 4 PM,60,"Library, Sports Complex, Labs",13.974027081310926,94.14198899537115
+Ferguson-Johnson College,111095,1990,"MBBS, BBA, MCA",8 AM - 4 PM,74,"Labs, Cafeteria, Gym, Sports Complex",15.618250506914226,72.89663377915389
+Castro Group College,35279,2018,"Ph.D, BBA, MCA",8 AM - 3 PM,67,"Gym, Library",27.11209795578538,79.17506006872196
+Adams PLC College,254510,1994,"Ph.D, M.Sc, MBBS",10 AM - 6 PM,74,"Cafeteria, Gym, Sports Complex, Labs, Hostels",22.15716232793376,81.55232060758962
+Barnes Inc College,142004,1976,MCA,10 AM - 4 PM,83,"Library, Sports Complex, Cafeteria, Labs",8.31678742892685,81.34888206462722
+"Meyer, Frank and Romero College",107469,1971,B.Sc,8 AM - 4 PM,87,"Sports Complex, Labs, Hostels, Library, Cafeteria",14.685831518043571,83.04603220998847
+"Gillespie, Moss and Welch College",194209,1969,BCA,8 AM - 4 PM,74,"Gym, Labs, Hostels, Research Centers, Sports Complex",36.17090731166786,80.44322237153384
+Alvarado-Cochran College,287476,1968,"MBBS, BCA, B.Tech",9 AM - 4 PM,95,"Gym, Labs, Cafeteria, Library, Research Centers",32.94358235259594,76.11942030570208
+Bailey Group College,224130,2003,"B.Tech, MCA, M.Tech",9 AM - 4 PM,87,"Research Centers, Labs",32.1753006426961,83.80170511863675
+Anderson Ltd College,276645,1990,"MBA, M.Sc",9 AM - 3 PM,88,"Research Centers, Sports Complex, Labs, Gym, Hostels",8.539926643029679,68.67274069753395
+"Payne, Wilson and Moreno College",100361,1991,MBA,9 AM - 5 PM,64,"Gym, Sports Complex, Research Centers, Hostels, Cafeteria",18.493141791081403,80.38106597647368
+Ali Group College,205684,1983,"M.Tech, Ph.D, MBA",8 AM - 4 PM,61,"Cafeteria, Gym, Research Centers, Sports Complex",26.056192746013334,85.83358140372864
+"Winters, Anderson and Zimmerman College",232927,1980,M.Tech,8 AM - 3 PM,71,"Hostels, Gym, Library, Cafeteria, Sports Complex",16.679047193370145,87.22062687171857
+Campbell-Ferguson College,232170,1989,"B.Tech, M.Sc",10 AM - 5 PM,73,"Library, Sports Complex, Gym, Labs",14.477920153182358,73.47337652001706
+Gutierrez-Lee College,29408,1968,"B.Sc, BCA",8 AM - 4 PM,79,"Gym, Cafeteria, Labs",11.200450783418328,85.02000238832923
+"Glover, Gibson and Jones College",263603,2012,M.Sc,9 AM - 3 PM,89,"Cafeteria, Hostels, Gym, Sports Complex, Library",18.55393265465239,77.49820833974222
+Fernandez PLC College,195117,1957,"M.Sc, MBA, B.Sc",8 AM - 6 PM,65,"Gym, Hostels, Sports Complex",15.608126571597847,91.2286029170747
+Miles PLC College,208553,2016,M.Tech,8 AM - 3 PM,65,"Sports Complex, Research Centers, Gym",36.07032487471802,92.21955861927947
+"Roth, Miller and Ray College",195806,2014,MCA,10 AM - 6 PM,89,"Hostels, Cafeteria, Labs, Sports Complex, Gym",34.10501986589968,74.0302806162661
+Edwards-Burke College,208810,1963,B.Sc,10 AM - 3 PM,87,"Gym, Sports Complex, Research Centers, Hostels",16.23704738061067,88.59843380301893
+Woods Group College,238100,1976,"Ph.D, B.Tech, MBBS",10 AM - 5 PM,96,"Cafeteria, Labs, Research Centers, Gym, Library",17.18961235478654,77.52931017738115
+Mason-Chavez College,222035,1968,"M.Sc, B.Tech, B.Sc",9 AM - 3 PM,97,"Labs, Gym, Hostels, Library",20.407763285040133,75.04633481334903
+"Roberts, Williams and Marshall College",27533,1957,"Ph.D, MBBS, MCA",10 AM - 5 PM,88,"Hostels, Labs, Cafeteria",27.083733279440047,76.33558025328615
+"Miller, Williams and Sullivan College",185021,1990,"B.Sc, MBA",8 AM - 5 PM,90,"Labs, Research Centers, Library, Gym, Cafeteria",8.838184650403708,86.93169065194374
+Atkinson-Williams College,180097,1980,"B.Sc, BBA",10 AM - 4 PM,72,"Gym, Cafeteria, Hostels, Labs, Sports Complex",13.835764076542393,78.08796966548012
+"Beltran, Krueger and Rivera College",104505,1975,"M.Sc, M.Tech",10 AM - 4 PM,98,"Library, Hostels, Labs, Gym, Cafeteria",28.801287726999927,86.30700678554169
+Baker-Lamb College,258362,2008,"MBBS, M.Tech",9 AM - 6 PM,77,"Labs, Research Centers, Hostels, Gym, Library",28.014329736791282,80.82104995877522
+"Carpenter, Stevens and Warren College",184207,2000,M.Tech,8 AM - 6 PM,92,"Cafeteria, Sports Complex",17.825674373783816,76.9487208604651
+Weber-Kemp College,130036,1997,"BBA, B.Tech, M.Sc",8 AM - 5 PM,88,"Research Centers, Library, Labs, Hostels, Gym",8.775198249501518,73.39475870105781
+Whitehead-Williamson College,81140,1997,"M.Sc, MBBS, MCA",8 AM - 6 PM,65,"Sports Complex, Gym, Labs, Hostels",34.67603166170019,84.1948234250099
+Mcintyre-Smith College,210893,1964,"Ph.D, M.Tech, BBA",10 AM - 4 PM,95,"Gym, Cafeteria",17.396147055168694,93.32128280571334
+Gilbert Group College,249741,2003,"Ph.D, B.Tech, MBBS",10 AM - 6 PM,67,"Sports Complex, Hostels, Library, Research Centers",31.099594532246908,84.20583850143089
+"Moss, Lucas and Brown College",260240,1970,"B.Sc, MCA",10 AM - 4 PM,75,"Labs, Sports Complex, Cafeteria, Hostels",27.23364635053966,87.13937886780731
+"Alexander, Elliott and Roberts College",255197,2016,MBBS,9 AM - 3 PM,74,"Gym, Sports Complex, Research Centers, Labs",23.979902194530744,94.30125461031915
+Doyle Inc College,284265,1952,"M.Tech, M.Sc",8 AM - 5 PM,95,"Hostels, Library, Labs, Cafeteria",35.83291871896294,89.8340718944501
+"Guerrero, Orr and Spears College",211897,1979,"M.Tech, Ph.D",8 AM - 6 PM,100,"Sports Complex, Research Centers, Library",20.710616059268833,73.8710436675692
+"Evans, Dean and Ball College",293387,1960,"M.Tech, B.Sc",10 AM - 6 PM,74,"Cafeteria, Labs, Gym, Hostels, Library",21.977798277511646,88.13971412795338
+Jones Group College,230557,2001,"B.Sc, BCA",8 AM - 3 PM,73,"Sports Complex, Hostels, Gym, Research Centers",12.44877009546802,76.75449979703271
+Howard-Murphy College,169367,1962,BCA,9 AM - 5 PM,87,"Hostels, Gym, Labs, Cafeteria",28.725290868002627,69.44506774963239
+Lara-Dennis College,183442,2000,"M.Sc, BCA, BBA",9 AM - 6 PM,71,"Cafeteria, Gym, Labs, Sports Complex, Hostels",30.0426000886791,91.39675734426156
+Barrett-Flores College,230084,1961,"MBA, BBA",9 AM - 3 PM,75,"Research Centers, Sports Complex, Labs",33.499032592471906,94.81904346711579
+Taylor and Sons College,56303,2003,"B.Sc, MBA, M.Tech",10 AM - 3 PM,86,"Labs, Sports Complex, Research Centers",34.24924373761623,96.97412737005301
+Burton and Sons College,225120,1985,"Ph.D, MCA, BCA",8 AM - 4 PM,79,"Labs, Research Centers, Gym, Sports Complex",21.193533891795212,76.96295065076791
+"Aguilar, Byrd and Murray College",23809,2015,"MBBS, BCA",9 AM - 6 PM,70,"Gym, Sports Complex, Cafeteria, Library, Labs",28.42990937596236,96.0273894707125
+"Parker, Cortez and Fletcher College",201212,1998,"M.Tech, Ph.D, M.Sc",9 AM - 5 PM,85,"Labs, Library, Hostels, Cafeteria, Gym",21.79839526132392,92.79262481967017
+"Pena, Velasquez and Norris College",262162,1989,BBA,10 AM - 6 PM,95,"Cafeteria, Library, Research Centers, Sports Complex, Labs",13.36331883930854,85.10425877768715
+Patel PLC College,219807,2010,"MBA, BCA, BBA",10 AM - 4 PM,72,"Library, Gym",9.997244356404352,78.23207030417137
+Santos-Black College,106514,1987,MBA,9 AM - 5 PM,85,"Hostels, Research Centers, Sports Complex, Gym, Labs",17.86604245079121,96.66085846518878
+"Ray, Armstrong and Ellis College",285793,2019,"Ph.D, M.Tech",8 AM - 6 PM,84,"Sports Complex, Research Centers, Hostels",22.0926131916141,87.00275823133899
+Walker Group College,170191,1996,"MCA, M.Sc",10 AM - 5 PM,84,"Research Centers, Labs",17.405861877581692,94.93153246993556
+Mckinney PLC College,202103,1950,"Ph.D, M.Sc",8 AM - 3 PM,83,"Gym, Library",10.191983761870281,86.04519595768272
+Taylor Ltd College,173344,1985,"MBA, B.Tech, M.Tech",10 AM - 3 PM,97,"Cafeteria, Hostels",31.410504474690317,93.84477198203953
+Henderson-Green College,231188,2000,B.Sc,8 AM - 3 PM,82,"Library, Cafeteria, Gym",34.82460615976564,90.2295860046903
+Wells-Bates College,67280,1982,B.Tech,10 AM - 4 PM,61,"Labs, Sports Complex, Hostels",11.658770846722609,90.26497960184733
+Matthews and Sons College,55072,1964,"B.Tech, MBA",10 AM - 5 PM,84,"Research Centers, Hostels, Cafeteria, Gym",25.524084234053305,68.39141468750168
+"Wilkerson, Prince and Jensen College",200612,1967,"B.Tech, B.Sc, BBA",10 AM - 5 PM,83,"Labs, Research Centers",35.744697940876215,74.10794436943021
+Nunez Ltd College,74484,2019,"BCA, M.Tech, B.Sc",10 AM - 5 PM,80,"Labs, Hostels, Research Centers",27.47590250697082,87.90756028389802
+"Harris, Garcia and Davis College",151605,1951,"M.Tech, B.Tech, Ph.D",10 AM - 4 PM,82,"Cafeteria, Gym, Sports Complex, Library",24.627127064716138,82.53996577983375
+Poole Ltd College,205782,2000,"MBBS, Ph.D",9 AM - 3 PM,70,"Labs, Sports Complex, Hostels",31.045972521576804,69.08664927315257
+"Hall, Cox and Shaw College",121435,1969,"Ph.D, M.Sc",8 AM - 4 PM,67,"Research Centers, Gym, Labs, Hostels, Sports Complex",28.646238224866014,75.85941183615084
+"Cunningham, Wagner and Alvarez College",231472,1959,"BBA, MCA",8 AM - 4 PM,79,"Hostels, Gym",10.973760313631058,86.17794673460669
+Ellison Inc College,190817,2011,"M.Tech, Ph.D, BBA",10 AM - 5 PM,66,"Hostels, Cafeteria, Labs",10.157217434582027,68.73104862850525
+Kim-Sharp College,31675,1953,"MBBS, M.Sc",10 AM - 5 PM,65,"Research Centers, Gym, Labs, Hostels, Sports Complex",21.117133880971533,90.44800717140203
+Berry Ltd College,133935,1969,"BBA, M.Sc",9 AM - 3 PM,98,"Hostels, Labs, Library, Sports Complex, Cafeteria",20.426848480226695,73.33636635117381
+"Harrell, Ritter and Rodriguez College",80845,1973,BBA,8 AM - 4 PM,79,"Gym, Cafeteria, Labs, Research Centers",23.3057229124125,77.01215980503373
+Flores-Thompson College,94501,2000,"M.Tech, B.Sc, MCA",9 AM - 5 PM,81,"Library, Gym",14.57970455318393,82.05443117038615
+Lewis-Mckinney College,192855,2005,BCA,8 AM - 5 PM,66,"Cafeteria, Library, Sports Complex",12.927838132451768,71.16881496780397
+Williams Inc College,182867,1965,BBA,8 AM - 5 PM,86,"Gym, Sports Complex",32.41700656033522,91.1597452370856
+"Kent, Greene and Faulkner College",217553,2011,MBBS,9 AM - 6 PM,100,"Cafeteria, Sports Complex, Hostels, Research Centers",14.454831138914894,82.2312612700346
+Hall-Bean College,60079,1962,"Ph.D, B.Sc",8 AM - 4 PM,65,"Library, Hostels, Labs",34.35360214536807,95.06591595704087
+Ferrell-Nguyen College,206094,1959,"MBA, BCA",10 AM - 4 PM,72,"Labs, Gym, Cafeteria",25.41137742723998,82.16737976009654
+Stevenson-Moody College,119413,1996,B.Tech,10 AM - 3 PM,76,"Labs, Cafeteria, Research Centers, Sports Complex, Hostels",17.703004662297808,73.76171089382163
+Berg-Jackson College,109862,2019,"B.Tech, B.Sc, MBA",10 AM - 5 PM,96,"Hostels, Library, Cafeteria, Labs",8.913857211303782,76.2687971221668
+"Mcdonald, Lyons and Douglas College",119817,1990,B.Sc,8 AM - 5 PM,75,"Hostels, Labs, Cafeteria, Gym, Sports Complex",36.086972435977074,79.12688138170267
+"Jackson, Woods and Hanson College",43821,2008,B.Sc,9 AM - 5 PM,75,"Research Centers, Labs",21.63738123787116,96.38097968172508
+Hughes-Garcia College,63341,2004,B.Tech,8 AM - 3 PM,76,"Hostels, Research Centers, Cafeteria, Sports Complex",13.08987674762215,72.38560113283943
+"Pearson, Mcintosh and Rose College",254572,2008,"BBA, BCA, B.Tech",8 AM - 6 PM,66,"Sports Complex, Hostels",28.48761455825327,68.8496318166723
+Dixon Group College,204446,2014,MCA,9 AM - 4 PM,82,"Labs, Cafeteria",14.223844808084698,82.0027782003103
+Bender Ltd College,253135,1965,BCA,10 AM - 3 PM,73,"Research Centers, Hostels, Cafeteria, Labs",36.44730427344586,70.96341680985543
+Jenkins PLC College,101163,1974,MBBS,9 AM - 6 PM,93,"Cafeteria, Gym, Hostels, Labs",22.04076793289654,68.68502804590747
+"Davenport, Williams and Ruiz College",244480,1978,"MBA, M.Sc, MCA",9 AM - 3 PM,65,"Labs, Research Centers, Sports Complex, Library",21.65008546921961,85.82851253163305
+"Bryant, Thomas and Gutierrez College",148472,1994,"B.Tech, MBA",10 AM - 4 PM,99,"Hostels, Cafeteria, Library, Labs, Sports Complex",9.886492284891945,91.53704499034583
+Berry and Sons College,278482,1978,"BCA, MBBS, MBA",10 AM - 6 PM,93,"Sports Complex, Cafeteria, Labs, Library",9.245618526188029,89.4887092726693
+"Blair, Smith and Cruz College",234504,1951,"BBA, M.Sc",9 AM - 3 PM,98,"Cafeteria, Library, Sports Complex, Gym, Hostels",11.689395469171465,81.52305085466055
+Weaver and Sons College,79137,1980,BCA,8 AM - 4 PM,67,"Research Centers, Hostels",16.82345239558149,89.75570581029423
+"Hughes, Cross and Deleon College",131964,2002,"BCA, B.Tech",8 AM - 5 PM,98,"Cafeteria, Labs, Gym, Research Centers",34.696070297846646,74.75371147892102
+Harris-Young College,299728,2005,"BBA, Ph.D, MCA",10 AM - 5 PM,84,"Library, Research Centers, Gym",9.619619481874972,77.66743614221762
+Woods-Washington College,145870,1981,"MCA, Ph.D",8 AM - 5 PM,87,"Sports Complex, Gym, Labs, Cafeteria",16.818933579570313,70.33245100052905
+Sandoval-Barnes College,29260,1963,Ph.D,10 AM - 3 PM,96,"Sports Complex, Hostels, Research Centers",34.08832382990656,94.73439667550691
+Rojas PLC College,287203,1957,"B.Sc, M.Sc",10 AM - 6 PM,95,"Library, Cafeteria, Research Centers, Sports Complex, Hostels",10.193331340701315,84.80139521138763
+Gutierrez-Parsons College,93090,2007,"B.Tech, M.Sc, MBBS",9 AM - 4 PM,72,"Sports Complex, Cafeteria, Labs",35.706639586931544,85.36889086061736
+Walsh and Sons College,37575,2007,B.Sc,10 AM - 4 PM,68,"Hostels, Research Centers, Cafeteria, Gym",26.2311580709441,82.95481219668609
+Maddox-Robinson College,41181,1993,"Ph.D, B.Sc, BCA",10 AM - 3 PM,83,"Research Centers, Hostels, Labs",11.791844079333162,92.74970573250933
+Osborne PLC College,85819,1988,"B.Sc, MBA",10 AM - 4 PM,94,"Labs, Hostels",21.6473346218378,70.11776313753488
+"Hall, Mckenzie and Collins College",136823,1990,"MBA, Ph.D",9 AM - 6 PM,68,"Research Centers, Cafeteria, Library, Sports Complex",25.728637049227736,90.71748810596812
+Harper PLC College,180798,1975,"MBBS, B.Sc",10 AM - 6 PM,89,"Research Centers, Gym, Hostels",24.161276101536338,76.65136894911049
+"Bruce, Wright and Thompson College",194899,1951,"B.Sc, M.Sc, MBBS",8 AM - 5 PM,74,"Hostels, Gym, Cafeteria",20.516197368897757,82.6511395004051
+Bailey LLC College,249784,1953,"MBA, B.Sc, BCA",8 AM - 4 PM,74,"Research Centers, Labs, Hostels, Library, Cafeteria",12.729795450699626,95.89486773815071
+Brown-Garcia College,131309,1983,"BCA, BBA",8 AM - 4 PM,62,"Research Centers, Sports Complex",36.25597568424316,74.94894332097029
+Stephens Inc College,173062,1996,MBA,10 AM - 3 PM,98,"Sports Complex, Gym, Labs, Library",34.90173487699066,93.07299945136684
+Hunter-Miller College,291340,1992,B.Sc,8 AM - 6 PM,89,"Hostels, Library, Labs, Cafeteria",20.140380324837285,92.60464521744214
+"Cohen, Torres and Hampton College",175521,1999,"MBA, BCA, MBBS",8 AM - 6 PM,74,"Labs, Library",23.509904033518545,93.85809410085457
+Olson LLC College,150751,1955,"M.Sc, B.Tech",9 AM - 5 PM,88,"Hostels, Cafeteria, Sports Complex, Library",15.078064034598503,81.7723082616252
+Weber-Wright College,180660,1973,"MBBS, M.Sc",10 AM - 5 PM,69,"Cafeteria, Labs, Library, Research Centers",31.532842507933974,91.03779004277693
+Harper PLC College,103990,1952,B.Tech,8 AM - 5 PM,75,"Library, Cafeteria",9.012629468246072,91.76717253437637
+"Malone, Cross and Warner College",120409,1993,"M.Tech, B.Sc, Ph.D",9 AM - 6 PM,96,"Cafeteria, Gym, Labs, Sports Complex, Library",20.437291023538457,85.32715432303581
+Kaufman PLC College,39645,2015,"MBBS, Ph.D, BBA",8 AM - 4 PM,65,"Research Centers, Gym, Cafeteria, Library",34.82172229864476,89.62520461775972
+Shields-Scott College,171075,1965,MBBS,8 AM - 6 PM,75,"Labs, Gym, Cafeteria, Sports Complex",24.084620161655405,90.16091872600842
+Farrell-King College,250531,1998,M.Tech,9 AM - 6 PM,87,"Research Centers, Sports Complex, Gym, Library",11.13959697958487,87.3566282891636
+Mercer Group College,212284,1994,"BBA, M.Tech",9 AM - 4 PM,89,"Labs, Gym, Cafeteria, Sports Complex, Library",14.60166863751704,75.34475251976725
+Fletcher-Olson College,148023,1975,"B.Sc, B.Tech, BBA",9 AM - 5 PM,92,"Library, Research Centers, Sports Complex, Gym",32.27620053922429,78.26030094428394
+Ball LLC College,229134,2003,"M.Tech, MBA",9 AM - 5 PM,93,"Gym, Sports Complex, Hostels, Labs, Research Centers",30.870435636862243,95.5827578613485
+Pennington and Sons College,202084,2016,MBBS,9 AM - 5 PM,86,"Gym, Hostels, Research Centers, Cafeteria",36.54257501523783,89.9097411005064
+Hogan Inc College,233951,2010,"B.Sc, M.Tech",8 AM - 5 PM,100,"Library, Gym",36.03426370693211,89.98914313367246
+"Smith, Evans and Walker College",29909,1983,"MBA, MBBS",8 AM - 3 PM,66,"Sports Complex, Research Centers",29.20054801515449,93.85153039169174
+"Anderson, Frost and Jackson College",203559,2011,"MBBS, M.Tech",10 AM - 6 PM,86,"Sports Complex, Cafeteria, Library, Labs",24.48127390886261,81.35625075872056
+Robinson Ltd College,118496,1991,MBA,8 AM - 4 PM,81,"Research Centers, Sports Complex, Library, Gym",27.21266958352407,92.02398994170113
+Rodriguez-Miller College,280356,2000,MCA,9 AM - 4 PM,95,"Research Centers, Sports Complex",27.71230437548464,77.25915239677167
+Clark-Robertson College,97583,1966,"MCA, M.Tech",8 AM - 5 PM,95,"Research Centers, Library, Sports Complex, Cafeteria",31.805000629124418,68.52716343650972
+Vega-Hahn College,213436,1957,"BBA, M.Tech, B.Sc",9 AM - 6 PM,64,"Labs, Gym, Cafeteria, Library",33.04207117843768,73.5921860603838
+"Martinez, Cochran and Delacruz College",97786,1997,"BBA, Ph.D, B.Tech",10 AM - 3 PM,82,"Library, Sports Complex, Cafeteria, Research Centers",15.9285674998283,86.63929180616142
+Brown-Vang College,101945,1986,M.Sc,9 AM - 6 PM,65,"Research Centers, Sports Complex",17.49836439880503,88.0313606900465
+Cannon and Sons College,242880,2009,"B.Sc, B.Tech",8 AM - 3 PM,80,"Hostels, Sports Complex, Cafeteria, Research Centers",29.064140028861647,69.0043182150124
+Floyd Inc College,293414,1995,"M.Sc, MBA",8 AM - 6 PM,97,"Gym, Library, Hostels, Cafeteria",16.26584465898583,69.8283543736461
+"Weiss, Jackson and Holt College",263058,1971,"BBA, B.Sc, Ph.D",9 AM - 6 PM,78,"Labs, Library, Cafeteria, Research Centers, Hostels",27.292361015081543,84.89225623362555
+Brown-Hall College,287931,1961,"MCA, Ph.D",8 AM - 5 PM,72,"Research Centers, Gym, Sports Complex",32.47499482074694,72.86396676055834
+Austin Group College,116281,1991,"MCA, M.Tech",10 AM - 6 PM,80,"Hostels, Labs, Sports Complex, Cafeteria, Gym",32.44472654569127,73.00820980802409
+"Doyle, Sanchez and Gordon College",98556,1964,"M.Tech, MBBS",9 AM - 6 PM,85,"Hostels, Cafeteria",11.879502602174426,87.4223394574226
+Maxwell-Reilly College,298176,1962,"M.Tech, B.Tech",9 AM - 4 PM,65,"Sports Complex, Hostels",28.63014140428796,87.09894902404014
+Klein-Brown College,109042,2008,"B.Tech, MCA",9 AM - 4 PM,65,"Research Centers, Library",34.95188171879582,83.1689586578129
+"Pollard, Bowen and Powell College",25652,1950,Ph.D,8 AM - 3 PM,74,"Research Centers, Labs, Cafeteria, Hostels, Sports Complex",13.325341311323205,88.72856670731242
+"Lopez, Gonzalez and Martin College",180211,2004,"M.Sc, BCA",9 AM - 5 PM,89,"Library, Research Centers, Sports Complex, Hostels",17.797395255478172,70.4440901845659
+Garcia-Ingram College,237577,2011,"MCA, M.Tech, MBA",10 AM - 5 PM,88,"Cafeteria, Labs, Research Centers",15.921317441893859,85.02306571414451
+"Hernandez, Hoover and Kelley College",111416,1980,MCA,8 AM - 6 PM,60,"Cafeteria, Sports Complex, Research Centers, Hostels",9.120379599933303,91.70844024432353
+"Caldwell, Whitaker and Hughes College",139264,1977,"B.Sc, MBA",10 AM - 4 PM,71,"Cafeteria, Sports Complex, Research Centers, Labs, Library",22.01742404135635,81.64882409240703
+"Walsh, Oconnor and Medina College",299948,2012,"B.Tech, MCA, Ph.D",8 AM - 5 PM,78,"Labs, Gym, Sports Complex, Research Centers",26.748186435120974,92.97135873943338
+Jackson-Morris College,249365,1990,"Ph.D, MBA, B.Sc",9 AM - 4 PM,76,"Gym, Cafeteria",35.15340318220657,74.10297439397547
+"Larson, Hunter and Cobb College",297896,1988,B.Tech,9 AM - 3 PM,60,"Sports Complex, Labs",11.884246103718226,93.18080762885792
+Thompson-Castillo College,286935,1987,B.Tech,8 AM - 5 PM,94,"Library, Cafeteria, Gym",23.90167487058157,95.32712530214295
+"Perkins, Alexander and Collins College",70524,1970,"M.Tech, Ph.D",10 AM - 5 PM,81,"Sports Complex, Labs, Cafeteria",20.099905170652235,88.86169034323073
+Nelson Group College,74310,2007,M.Sc,9 AM - 5 PM,98,"Labs, Cafeteria",14.27217043056627,84.84518877036305
+"Wilson, Robinson and Griffith College",221657,2020,"M.Tech, B.Sc, MCA",8 AM - 4 PM,93,"Library, Sports Complex, Gym, Hostels, Cafeteria",28.284949627626908,68.80440702930666
+"Wilkins, Smith and Lee College",219949,1960,"MBBS, M.Sc, B.Tech",9 AM - 3 PM,69,"Sports Complex, Cafeteria, Research Centers",13.571408266309714,82.44530753814387
+Mcgrath-Gray College,57575,1973,"Ph.D, B.Tech, MCA",9 AM - 4 PM,75,"Library, Gym, Hostels",19.762456321210067,81.90910478836024
+"Lee, Snyder and Phillips College",268352,1966,BCA,9 AM - 3 PM,68,"Library, Cafeteria, Labs",29.653204599134828,82.55700532300105
+"Rodriguez, Rich and Ruiz College",30014,1959,BBA,9 AM - 3 PM,75,"Cafeteria, Sports Complex, Gym",33.12684423683587,87.9562827648239
+Dudley-Green College,283331,2010,"BBA, MCA, M.Tech",8 AM - 3 PM,81,"Research Centers, Library",31.42251706138064,78.71978997612446
+Mendez LLC College,196847,1983,"MBBS, MBA, MCA",8 AM - 4 PM,91,"Cafeteria, Gym, Labs, Hostels",12.335276087594211,81.4835856206375
+Ryan-Herman College,93555,1950,"BBA, MBBS, MBA",8 AM - 6 PM,88,"Sports Complex, Gym, Hostels, Labs, Research Centers",11.73104218164237,94.72575972401829
+"Bailey, Murphy and Mejia College",20505,1982,MCA,9 AM - 3 PM,64,"Sports Complex, Gym, Hostels, Research Centers",20.113055416588285,96.88282185867125
+Chen Inc College,96612,1975,"BCA, BBA, M.Tech",9 AM - 4 PM,61,"Sports Complex, Labs, Cafeteria, Gym",31.304322506034442,75.35875804136501
+Robertson-Levy College,92403,1998,"Ph.D, B.Sc, BCA",10 AM - 4 PM,77,"Hostels, Research Centers, Library",24.552194877386945,91.22304015718464
+"Nguyen, Wilson and Arias College",106417,1964,"MCA, MBA, BCA",10 AM - 4 PM,70,"Cafeteria, Sports Complex, Labs, Hostels, Gym",32.42939822264246,78.86292911662512
+"Stark, Blake and Clark College",152176,1968,M.Tech,9 AM - 6 PM,81,"Sports Complex, Hostels, Research Centers, Library, Cafeteria",16.16044116784851,72.08422094622631
+Reed Group College,265405,1965,B.Tech,8 AM - 3 PM,90,"Sports Complex, Labs, Research Centers, Gym",15.71615080491667,96.12009095401349
+Martin PLC College,246757,1972,BBA,9 AM - 4 PM,93,"Sports Complex, Gym",12.386374290197743,93.73286142485806
+Nguyen Inc College,49714,1992,BCA,10 AM - 5 PM,98,"Library, Cafeteria, Labs, Hostels, Sports Complex",17.815657219805054,83.71658816490893
+Anderson and Sons College,123403,2011,MBA,8 AM - 3 PM,75,"Library, Research Centers, Hostels, Sports Complex, Cafeteria",29.09040288798503,76.96389936755854
+"Rose, Payne and Orozco College",25991,1998,"BCA, MBA, MBBS",10 AM - 6 PM,60,"Research Centers, Library, Hostels",12.007139385277018,96.42500522666218
+Mendez PLC College,131571,1985,"MBBS, MBA, Ph.D",9 AM - 3 PM,73,"Cafeteria, Hostels, Library, Sports Complex, Research Centers",12.920368452908154,93.99412958850019
+"Martinez, Taylor and Shea College",272836,1984,"M.Sc, BCA, B.Sc",9 AM - 6 PM,94,"Gym, Library, Sports Complex",13.388621507715605,74.80061951369645
+Ortiz Group College,143189,2006,"BCA, M.Tech",9 AM - 5 PM,72,"Cafeteria, Hostels",32.17646620129219,79.30959249727624
+Chung-Martinez College,270730,1981,"B.Sc, M.Tech",10 AM - 5 PM,76,"Research Centers, Gym, Cafeteria, Labs",35.47189567318581,77.60054036312813
+Jacobs-Anderson College,51766,2008,"M.Sc, MBBS, MCA",9 AM - 5 PM,60,"Labs, Hostels",8.206901738761902,89.91292017302338
+Blankenship Group College,125781,1966,BCA,9 AM - 5 PM,63,"Labs, Sports Complex, Gym, Hostels, Research Centers",29.31025839790049,84.26986881327565
+"Mcintyre, Johnson and Hudson College",55987,1979,"Ph.D, B.Sc, MBA",10 AM - 6 PM,79,"Labs, Sports Complex",13.699390028920638,81.87042007780552
+Figueroa LLC College,26685,1976,"MBBS, MBA, B.Tech",9 AM - 5 PM,68,"Gym, Labs, Cafeteria, Sports Complex",31.942262244394097,71.66227034881085
+Reyes-Mclean College,272448,2007,"M.Tech, Ph.D",8 AM - 6 PM,63,"Sports Complex, Hostels, Research Centers",23.89864025633325,95.43101791241244
+Harrison-Robinson College,237643,1976,M.Tech,9 AM - 5 PM,97,"Cafeteria, Library, Hostels",20.55166034870002,76.02868927792444
+Friedman-Rhodes College,243819,1976,"B.Sc, MBBS",8 AM - 5 PM,89,"Sports Complex, Cafeteria, Hostels",34.52571278703487,89.90132600028883
+"Kidd, Johnson and Davis College",272504,1957,"MCA, BCA, M.Sc",9 AM - 3 PM,95,"Sports Complex, Hostels, Labs",31.045021771875856,71.39084510416036
+"Carter, Cain and Turner College",159256,1967,"B.Sc, MBBS, MCA",8 AM - 5 PM,87,"Labs, Gym, Sports Complex",36.568373820723124,93.75715853466923
+Ewing LLC College,130153,1995,"MBBS, Ph.D",9 AM - 5 PM,72,"Library, Labs, Hostels",14.485300243791091,92.97920375386934
+"Huff, Benjamin and Clark College",37023,2017,MBA,8 AM - 5 PM,60,"Labs, Research Centers",32.03073484273628,82.94876871868216
+"Hamilton, Adams and Richmond College",222424,1967,M.Sc,10 AM - 3 PM,68,"Library, Research Centers",32.9600643439408,84.65514594121579
+Stout Inc College,174810,2009,"B.Sc, Ph.D",10 AM - 5 PM,90,"Cafeteria, Gym, Research Centers, Labs, Library",35.40271208800931,73.08929586253683
+"Price, Foster and Miller College",268078,1950,"MBBS, B.Tech",8 AM - 3 PM,65,"Hostels, Cafeteria",17.581064922748567,87.86330116648566
+Lewis and Sons College,132955,2006,"MBBS, Ph.D, BCA",10 AM - 5 PM,87,"Labs, Hostels, Cafeteria, Gym",29.19082901941752,79.05343596512384
+Jones PLC College,178637,1979,MCA,9 AM - 3 PM,86,"Research Centers, Labs, Hostels, Sports Complex, Cafeteria",32.99389447178074,94.35648881303786
+Jackson-Nelson College,47467,1978,"Ph.D, MBBS, BBA",10 AM - 3 PM,86,"Labs, Hostels, Sports Complex, Research Centers, Gym",35.423864593312125,81.82583517938916
+"Thompson, Mosley and Robbins College",205811,1975,"MBA, MBBS, BBA",10 AM - 4 PM,97,"Library, Labs, Sports Complex, Gym",13.002985001312275,75.86489025987906
+Bell-Riley College,89658,2016,"BBA, B.Tech",10 AM - 3 PM,76,"Research Centers, Hostels, Labs",17.67871812618947,89.45109914257986
+"Edwards, Gordon and Yang College",294265,1958,"Ph.D, BBA, MBBS",9 AM - 4 PM,76,"Hostels, Gym, Library, Labs",18.846048646614477,83.78254859421169
+"Moreno, Garcia and Reed College",151554,1971,M.Sc,8 AM - 3 PM,85,"Research Centers, Gym, Library, Hostels, Labs",21.253938660719044,76.89623214153154
+"Cohen, Meadows and Smith College",233113,1977,"MBA, BCA",9 AM - 6 PM,61,"Hostels, Gym, Sports Complex",15.294894709684604,71.51997446752587
+"Thompson, Boyd and Snyder College",215529,1999,BCA,9 AM - 3 PM,80,"Sports Complex, Cafeteria, Gym, Library",17.924960853307738,82.29027554414188
+Smith Group College,242565,1992,"M.Tech, B.Tech",9 AM - 4 PM,81,"Library, Labs, Research Centers, Sports Complex, Gym",23.990761426528135,95.06591554128588
+"Mcdowell, Wilkins and Patterson College",141249,1988,Ph.D,9 AM - 3 PM,90,"Gym, Hostels, Sports Complex",26.27293302322491,80.24686565487406
+"Diaz, Brown and Curry College",163039,1971,"B.Tech, Ph.D",10 AM - 6 PM,62,"Labs, Hostels, Sports Complex, Gym, Library",18.230237680746576,77.30020312625037
+Dougherty and Sons College,48025,1991,"BBA, Ph.D, B.Tech",8 AM - 4 PM,66,"Labs, Sports Complex, Research Centers, Hostels, Library",16.748476727143597,90.24645225022572
+Hill LLC College,279194,1975,"B.Sc, B.Tech",8 AM - 3 PM,93,"Sports Complex, Gym",25.56170961495533,82.11173578148362
+"Stanley, Ray and Wolfe College",190852,2010,"B.Sc, MBBS",10 AM - 4 PM,63,"Library, Gym, Cafeteria",30.861455461119572,86.05826885580379
+"Woods, Gardner and Rhodes College",34373,1956,M.Tech,9 AM - 4 PM,69,"Hostels, Research Centers, Cafeteria",27.378818106814936,88.44267610428247
+Williams-Andrade College,240258,1987,"M.Tech, MBBS",8 AM - 6 PM,80,"Hostels, Labs, Cafeteria, Library, Gym",16.162370911314227,71.79624210751544
+Thomas and Sons College,124927,1985,"M.Sc, B.Sc",10 AM - 6 PM,86,"Labs, Research Centers, Gym, Cafeteria",35.36315057798035,94.7896060661971
+Ramirez LLC College,121809,1983,"B.Tech, BBA",8 AM - 3 PM,68,"Research Centers, Hostels, Library, Sports Complex",28.87694594463699,83.29358920666914
+"Montoya, Hunter and Rogers College",157685,1972,M.Tech,8 AM - 6 PM,63,"Gym, Research Centers, Library",11.797503916346592,73.15793593350892
+"Smith, Williams and Gould College",289091,1965,B.Tech,9 AM - 3 PM,92,"Sports Complex, Research Centers, Cafeteria, Library, Labs",30.708927806989454,83.860421988766
+Francis-Freeman College,89735,1995,"MCA, MBBS, M.Sc",8 AM - 4 PM,72,"Gym, Sports Complex",27.443639866951607,90.17627962938867
+Boyd Inc College,116538,1961,"MBA, M.Sc",10 AM - 6 PM,76,"Hostels, Gym, Library, Research Centers, Cafeteria",26.01889578779742,90.5676878289851
+Johnson-Dunn College,61209,1986,BBA,9 AM - 3 PM,71,"Library, Cafeteria, Hostels",34.98651940517521,79.11810780985111
+Mills-Taylor College,154959,2020,"BCA, MBA",10 AM - 4 PM,78,"Sports Complex, Research Centers, Cafeteria",9.517551457481073,92.4147555413986
+Smith Ltd College,33118,2010,"Ph.D, B.Sc, BCA",10 AM - 3 PM,70,"Research Centers, Sports Complex",29.849906922697098,76.00813921400423
+Schneider LLC College,286533,1988,"BCA, B.Sc",9 AM - 3 PM,93,"Gym, Library",9.02339725174859,90.76572965571718
+"Norman, Garcia and Jones College",36464,1996,"Ph.D, BBA",9 AM - 5 PM,95,"Gym, Cafeteria, Research Centers",26.1138776341809,70.32387251955532
+"Hoover, Henry and White College",46899,2007,"MCA, BCA, B.Tech",10 AM - 5 PM,63,"Research Centers, Hostels, Sports Complex",19.392210544947034,91.11043912951146
+Young Ltd College,241773,1996,"B.Tech, BBA, MBA",8 AM - 3 PM,77,"Sports Complex, Gym",30.729380072083337,89.35045205869416
+Young-Sanchez College,293276,2005,"BBA, B.Sc",9 AM - 4 PM,100,"Library, Labs",9.612939704056583,69.01001192406716
+Salazar and Sons College,217590,1988,"BCA, B.Sc, MBA",10 AM - 6 PM,83,"Library, Hostels, Cafeteria",17.39039577506721,91.91583928956683
+"Pratt, Washington and Scott College",85123,1950,M.Sc,8 AM - 3 PM,98,"Sports Complex, Library",26.50945946005825,89.96642893796955
+Alvarez-Thompson College,135672,2016,"MBA, MBBS, Ph.D",9 AM - 5 PM,87,"Cafeteria, Research Centers",20.70022776165459,82.45489911564712
+Meyer Inc College,112113,1955,MBA,9 AM - 5 PM,78,"Research Centers, Gym, Sports Complex, Hostels",23.14615943486459,71.0171510041956
+"Wise, Estes and Krause College",265788,1999,"B.Sc, M.Tech, M.Sc",8 AM - 3 PM,79,"Library, Sports Complex, Cafeteria, Research Centers",35.512690421409914,78.14431353716262
+Flores-Lawson College,137223,2016,"Ph.D, M.Sc, MCA",9 AM - 6 PM,98,"Sports Complex, Library, Cafeteria, Research Centers, Gym",11.025021340385969,90.00939984483156
+Clay-Beck College,136368,1960,BBA,9 AM - 4 PM,65,"Gym, Hostels",35.44008617985607,95.83957801696923
+White and Sons College,77065,1954,"MBA, BBA, M.Sc",8 AM - 4 PM,95,"Sports Complex, Gym, Labs, Hostels",22.650284298641726,89.30925051906642
+Smith PLC College,216614,2007,"MBBS, BBA",10 AM - 6 PM,60,"Gym, Sports Complex",14.973074342949003,96.75067506019883
+Perez LLC College,279888,2012,"MCA, BCA, M.Sc",10 AM - 6 PM,93,"Labs, Gym, Research Centers",21.744177963939258,75.95526826399426
+Armstrong-Garza College,228115,2002,"BCA, B.Tech",8 AM - 6 PM,94,"Sports Complex, Gym",8.6342925231201,91.68314850485164
+"Davis, Lewis and Hines College",238561,1991,"MBA, B.Tech",8 AM - 3 PM,61,"Cafeteria, Sports Complex, Labs, Gym, Hostels",27.193556548452722,77.05681724285496
+"Fuentes, Matthews and Graham College",179360,1984,"M.Tech, MBBS, Ph.D",9 AM - 5 PM,90,"Sports Complex, Labs, Cafeteria, Library",24.58901277635308,75.37820339815777
+Lynch-Roberts College,133173,1992,MBA,10 AM - 4 PM,68,"Sports Complex, Hostels, Research Centers, Cafeteria",24.57899301334119,90.52788256655398
+Lyons-Johnson College,187737,2015,"B.Tech, M.Tech",10 AM - 5 PM,62,"Sports Complex, Research Centers",31.23164515694424,74.86008117512498
+Hernandez-Andersen College,138958,1963,Ph.D,9 AM - 4 PM,83,"Labs, Cafeteria, Research Centers, Sports Complex, Gym",35.19413109198699,93.53856429763532
+"Mays, Graham and Little College",106156,1998,B.Sc,8 AM - 4 PM,81,"Research Centers, Cafeteria",33.20647325734919,92.9444224437338
+"Brown, Graham and Barrett College",182333,1960,BCA,8 AM - 6 PM,69,"Library, Sports Complex, Research Centers, Labs, Gym",24.078075798161333,70.13508400276983
+Hayes LLC College,224328,1994,"MCA, Ph.D, MBA",9 AM - 4 PM,92,"Library, Research Centers, Cafeteria",29.81374066187774,69.0903841409847
+"Velasquez, Wall and Knight College",62367,1978,"MCA, M.Tech",9 AM - 5 PM,87,"Labs, Gym, Hostels",9.007967541907563,91.37596594967816
+Mack-Palmer College,207044,1987,"B.Sc, Ph.D, BBA",9 AM - 6 PM,98,"Sports Complex, Labs",30.370013301696893,84.01749299902976
+Taylor-Santos College,102198,1969,"MBA, MBBS",9 AM - 3 PM,88,"Labs, Cafeteria, Gym",31.555995957343907,68.3293999489214
+Torres and Sons College,98275,2010,Ph.D,10 AM - 3 PM,77,"Library, Labs, Cafeteria",29.6279261811169,83.2818617712515
+Chavez-Carter College,74591,1994,MBBS,8 AM - 3 PM,68,"Gym, Cafeteria, Labs",14.122464953260224,78.29404937143678
+Grimes-Hall College,41311,1968,BBA,8 AM - 5 PM,85,"Sports Complex, Cafeteria, Library, Gym, Labs",16.418602162916333,81.22124085363755
+Greer LLC College,42124,1971,"M.Sc, Ph.D, BCA",10 AM - 5 PM,71,"Research Centers, Sports Complex",20.14850265061199,85.23639640212164
+"Espinoza, Horne and Williams College",215202,1961,"BCA, M.Sc, BBA",8 AM - 5 PM,85,"Gym, Library",12.321701534178594,78.54815351504809
+Arias-Robertson College,98732,1978,"M.Sc, MBA",10 AM - 4 PM,93,"Cafeteria, Research Centers, Hostels, Gym",14.639477460216899,76.7326656834617
+"Martinez, Hall and Nelson College",139980,2000,"B.Tech, M.Tech, BBA",10 AM - 3 PM,100,"Hostels, Research Centers, Library, Cafeteria",32.321107554935224,81.0078570577861
+Werner Ltd College,57985,1959,"M.Sc, BCA, MBBS",9 AM - 5 PM,61,"Sports Complex, Labs, Hostels, Library",26.104153419788922,85.55498607341782
+Reynolds-Moore College,159010,1989,"M.Sc, MBA, MCA",8 AM - 4 PM,76,"Sports Complex, Hostels",12.760763870700524,74.85131319024809
+Olson PLC College,263628,1955,"BBA, M.Tech",9 AM - 3 PM,83,"Cafeteria, Sports Complex, Library, Hostels, Gym",27.45822015243988,76.32868127149936
+Black-Riggs College,191397,1989,M.Sc,10 AM - 6 PM,85,"Research Centers, Gym, Library, Cafeteria, Sports Complex",10.37661544038847,93.39579015938095
+Fitzgerald-Hill College,281999,2010,"B.Sc, M.Sc, M.Tech",10 AM - 4 PM,66,"Gym, Cafeteria, Labs",12.846650202961865,74.9673039863967
+Hunter LLC College,102039,1953,"MBBS, BBA, MCA",10 AM - 6 PM,67,"Cafeteria, Labs, Sports Complex, Hostels",33.79506003030451,93.79789944177779
+Bell-Hanson College,164779,2020,"MCA, BCA, M.Sc",10 AM - 5 PM,85,"Research Centers, Hostels, Gym",13.228178993369319,71.9207612208387
+Jenkins and Sons College,288059,1955,"B.Tech, B.Sc, M.Tech",9 AM - 6 PM,92,"Library, Hostels, Research Centers, Gym",30.542803234735768,73.86932121007715
+"Alvarez, Solis and Tyler College",95963,1971,"MBA, BBA, Ph.D",10 AM - 3 PM,64,"Sports Complex, Research Centers, Library",20.00762676273319,79.37410946785793
+Price LLC College,59000,1994,"MBBS, BCA, B.Tech",8 AM - 6 PM,92,"Sports Complex, Library, Hostels, Research Centers, Labs",34.79432889018193,91.68732574727954
+"Miller, Duke and Powell College",51131,1971,BBA,8 AM - 5 PM,90,"Cafeteria, Hostels, Labs, Library",14.718968027561356,73.4915107716839
+"Key, Espinoza and Fuller College",140404,1988,B.Sc,10 AM - 3 PM,100,"Research Centers, Sports Complex, Library, Hostels",25.42565726894409,92.68616445482702
+Lopez-House College,169706,1997,"B.Sc, MCA",9 AM - 3 PM,65,"Hostels, Labs, Gym",26.32532529300731,84.26901986885089
+"Martinez, Robbins and Yates College",274966,1959,B.Sc,10 AM - 3 PM,90,"Labs, Gym, Cafeteria",17.851837965746007,73.8317618672224
+"Stone, Floyd and Hudson College",59146,1954,B.Tech,9 AM - 4 PM,76,"Library, Cafeteria, Hostels, Labs",21.688113058410742,76.2498078432866
+Williams and Sons College,290767,1971,"BCA, BBA",8 AM - 4 PM,65,"Hostels, Gym",20.487907818356057,83.96260703608624
+Campbell-Reynolds College,31854,2001,"M.Sc, BCA, B.Tech",9 AM - 4 PM,85,"Gym, Sports Complex, Labs",29.314898057955354,83.00550169961373
+Solomon Ltd College,285534,1978,"Ph.D, MBA, M.Sc",8 AM - 5 PM,69,"Library, Cafeteria",36.92482363029971,81.59267045757349
+"Hall, Baker and Cantrell College",57344,1971,"BBA, MBBS, BCA",9 AM - 4 PM,80,"Cafeteria, Hostels",31.819099402673658,87.71821370407201
+Freeman Inc College,58285,2017,"MCA, MBA",9 AM - 5 PM,66,"Sports Complex, Library, Cafeteria, Research Centers, Labs",23.61689158643476,95.07293590450514
+"Anderson, Ramos and Mccann College",227563,1972,B.Tech,10 AM - 4 PM,66,"Sports Complex, Library, Cafeteria",31.347100012426022,75.93942496562804
+Pearson and Sons College,186010,1960,"B.Tech, Ph.D, BBA",9 AM - 3 PM,86,"Library, Hostels, Sports Complex, Labs, Cafeteria",27.365580358494906,79.09706424899142
+"Welch, Thomas and Fuentes College",233781,1951,"MBA, Ph.D",9 AM - 6 PM,71,"Hostels, Cafeteria",19.237879459625216,86.09419424029572
+Russell LLC College,163102,1965,"Ph.D, MBBS",8 AM - 4 PM,89,"Sports Complex, Hostels, Gym, Labs, Library",13.38282713528992,87.2206693579314
+"Shannon, Nichols and Smith College",157211,1967,"MBA, MBBS, BCA",8 AM - 6 PM,67,"Labs, Research Centers, Sports Complex",25.390436655079792,80.54150392991504
+"Boyd, Stewart and Kirby College",172234,1951,"MCA, M.Tech, B.Tech",9 AM - 6 PM,61,"Sports Complex, Hostels",26.236838324367255,81.4075724500825
+"Stanley, Curtis and Pacheco College",70023,2017,"BCA, M.Tech",9 AM - 4 PM,77,"Labs, Gym, Hostels, Sports Complex, Cafeteria",23.22904029150171,86.82427741479454
+Alexander-Hess College,188535,1962,"Ph.D, MCA",8 AM - 6 PM,64,"Research Centers, Library, Labs",27.126254110550807,87.70761000947468
+"Perry, Price and Thompson College",127077,1970,MBBS,8 AM - 4 PM,93,"Sports Complex, Hostels, Labs",36.893972101587494,86.68396014810175
+Murphy-Ross College,42863,1955,"BCA, M.Tech, BBA",8 AM - 4 PM,74,"Library, Sports Complex, Hostels, Cafeteria",28.063689298051656,93.15505444099324
+Cox-Cohen College,129767,1957,"B.Sc, B.Tech",9 AM - 5 PM,72,"Sports Complex, Research Centers, Labs, Hostels",25.98001855665355,96.12384336340187
+"Clark, Lara and Hughes College",288254,1986,B.Tech,10 AM - 4 PM,83,"Gym, Library, Research Centers",27.684890994305306,84.45097871012143
+"Deleon, Gonzales and Stout College",293888,1991,"MBA, B.Tech, BCA",9 AM - 6 PM,68,"Hostels, Sports Complex, Cafeteria",18.45647255461846,79.72718809379866
+Allen-Harrison College,104811,1986,"M.Tech, BCA, BBA",10 AM - 3 PM,67,"Cafeteria, Sports Complex",36.536469190840144,86.71076523076741
+Bryant Ltd College,188136,1961,MCA,10 AM - 5 PM,77,"Library, Hostels",17.250305208689504,78.82752366282736
+Anderson-Wright College,164287,1993,BCA,9 AM - 3 PM,83,"Hostels, Library, Sports Complex, Research Centers",23.48130571878182,94.95072994074233
+"Rhodes, Baker and Davis College",125420,1964,"MBA, MBBS, BBA",9 AM - 5 PM,98,"Library, Cafeteria",34.189742149254215,74.01204088418535
+Allen-Nguyen College,100379,1977,"B.Tech, MBA, M.Sc",9 AM - 3 PM,99,"Research Centers, Cafeteria",15.141119206313704,87.53603960531422
+"Johnson, Trujillo and Taylor College",98173,1971,"BCA, BBA",8 AM - 6 PM,64,"Library, Cafeteria, Research Centers, Gym",16.6945830962648,95.93478055513933
+Massey-Garcia College,239913,2007,"M.Tech, MBBS, M.Sc",10 AM - 5 PM,60,"Research Centers, Sports Complex, Labs",33.87921157540406,96.75553529310474
+"Carter, Thomas and Nunez College",55158,1987,"Ph.D, MBBS",10 AM - 4 PM,89,"Cafeteria, Research Centers",26.573535611059665,88.44595799236245
+James LLC College,199639,1962,M.Tech,9 AM - 3 PM,60,"Research Centers, Gym, Sports Complex",8.251390556788914,72.46954314951182
+Montoya-Mitchell College,171383,1951,"B.Tech, MBBS, B.Sc",9 AM - 4 PM,91,"Labs, Gym, Library",8.527489659327466,76.31466036049592
+Daniels-Martinez College,69957,2020,"M.Sc, MCA",10 AM - 3 PM,78,"Research Centers, Sports Complex, Hostels",13.858877839031383,71.2322692174582
+Bailey-Bailey College,57708,1960,"MBA, B.Tech",8 AM - 6 PM,81,"Hostels, Cafeteria, Sports Complex",15.521853359874813,86.38820089088094
+Cabrera-Huff College,136619,2013,"Ph.D, M.Sc, MCA",10 AM - 6 PM,100,"Hostels, Cafeteria, Labs",28.996715338879667,77.70461327090904
+Chavez and Sons College,101749,1957,"B.Sc, B.Tech, BCA",8 AM - 5 PM,90,"Labs, Gym, Sports Complex",34.205835616725565,86.55371182305124
+"Larsen, Coffey and Kim College",112475,1989,"MBA, M.Tech, BCA",10 AM - 6 PM,62,"Library, Gym, Cafeteria",18.39335551135305,89.55735164350956
+Johnson-Smith College,296895,1964,"B.Sc, BCA",9 AM - 5 PM,75,"Labs, Cafeteria, Research Centers",19.55322277053078,94.84477081283087
+"Hebert, Estrada and Hughes College",113975,1981,"B.Tech, M.Sc",9 AM - 5 PM,91,"Research Centers, Labs, Gym, Cafeteria",26.95074538248188,71.13081324423071
+"Jackson, Hood and Mason College",176613,1966,"MBA, BBA",9 AM - 3 PM,60,"Gym, Research Centers, Hostels, Sports Complex",17.634004646679788,92.15151710980112
+"Robinson, Boyd and Noble College",290450,1964,B.Tech,9 AM - 5 PM,63,"Library, Gym, Labs, Sports Complex, Hostels",22.131399117524143,85.05258907195699
+Martinez LLC College,297899,1985,"BBA, MBA",10 AM - 6 PM,64,"Cafeteria, Library, Sports Complex, Research Centers, Gym",36.81630188716774,74.95165862192243
+Miller-Martinez College,236637,1981,"MCA, B.Tech",8 AM - 4 PM,78,"Cafeteria, Research Centers, Gym, Sports Complex, Library",23.608435920668796,79.25199075367294
+Knight and Sons College,120158,1981,"M.Tech, B.Tech, Ph.D",9 AM - 6 PM,60,"Sports Complex, Hostels, Labs, Library",32.29520263907112,87.47865358999307
+Tate-Turner College,238085,1988,Ph.D,10 AM - 3 PM,96,"Gym, Hostels, Library",10.720978441134521,90.59585103259934
+"Villa, Matthews and Jones College",254353,1958,"B.Tech, BBA, M.Tech",10 AM - 3 PM,89,"Hostels, Cafeteria, Library",9.7289630027801,69.06394394345821
+Boyer PLC College,160874,1954,"BCA, MBBS, Ph.D",10 AM - 3 PM,60,"Cafeteria, Hostels, Labs, Research Centers, Sports Complex",28.147646254722407,85.1057410172141
+Velasquez and Sons College,253838,2006,"M.Tech, M.Sc, MBBS",8 AM - 6 PM,79,"Sports Complex, Library, Gym",22.12899836221334,82.90924183216255
+Oconnor-Huang College,296145,2013,"M.Sc, BBA, B.Tech",9 AM - 3 PM,83,"Cafeteria, Research Centers, Sports Complex, Gym",31.09651590205445,87.2270242684431
+Chang Inc College,161244,1965,"MBBS, MBA",10 AM - 3 PM,88,"Gym, Cafeteria, Sports Complex, Library",17.144027727403746,75.025123614509
+"Hunter, Acevedo and Gibson College",266756,1983,"MCA, Ph.D",8 AM - 5 PM,89,"Sports Complex, Research Centers, Hostels, Library",15.65835096280593,71.49765475375779
+"Keller, Campbell and Cross College",38071,1965,"MCA, B.Tech, Ph.D",9 AM - 6 PM,100,"Labs, Cafeteria, Gym, Hostels, Library",26.360071650428253,72.9241007802908
+"Walton, Morton and Hart College",40301,1965,"M.Tech, MCA",10 AM - 4 PM,91,"Hostels, Labs, Gym",9.722574894935867,72.19527181808408
+Sparks Ltd College,211430,1969,"BCA, MCA, M.Sc",10 AM - 3 PM,74,"Research Centers, Cafeteria",11.608255389425931,81.22192523212061
+Moon-Brown College,196775,1955,B.Sc,8 AM - 4 PM,62,"Cafeteria, Research Centers, Library",19.53924406994895,96.62525020378325
+Brewer-Hudson College,168996,1983,Ph.D,9 AM - 6 PM,72,"Cafeteria, Sports Complex, Library, Hostels",17.034856705939006,85.29212971034504
+"Wood, Wagner and Lopez College",82216,1954,BBA,9 AM - 4 PM,96,"Labs, Library, Sports Complex, Gym, Hostels",28.237763448574373,95.61675058823198
+Taylor Ltd College,207753,1994,B.Tech,9 AM - 4 PM,91,"Gym, Library, Hostels, Research Centers, Sports Complex",14.481021179189343,93.1327540877789
+"Lee, Frederick and Jackson College",234902,1962,B.Sc,10 AM - 5 PM,84,"Cafeteria, Labs, Sports Complex, Gym, Hostels",26.151806073964572,77.56494727102881
+Garcia Ltd College,98820,1954,M.Tech,10 AM - 3 PM,73,"Gym, Cafeteria, Labs",20.381815281168862,80.56857659221774
+Williams PLC College,150559,1952,"B.Sc, B.Tech, M.Sc",8 AM - 4 PM,94,"Hostels, Labs, Sports Complex, Cafeteria",10.261069531354883,94.88082819771438
+"Mcmillan, Robinson and Harvey College",180601,2015,"MCA, MBA, BCA",9 AM - 6 PM,73,"Library, Research Centers, Gym",32.09456282140958,90.08149513778237
+Jones and Sons College,82658,1991,"M.Tech, MCA, B.Tech",9 AM - 3 PM,79,"Research Centers, Hostels, Library, Labs, Gym",25.81979165329272,82.2949336235478
+"Mann, Thompson and Diaz College",139447,2007,BCA,10 AM - 3 PM,86,"Gym, Hostels",18.65683272097086,91.7921424643975
+Reyes LLC College,118038,1970,"MBBS, MBA, M.Tech",10 AM - 4 PM,96,"Cafeteria, Library",13.499503821880765,76.46984931353897
+"Smith, Strong and Whitney College",260750,1973,MBBS,10 AM - 5 PM,74,"Hostels, Sports Complex, Library, Labs, Gym",34.75439254373066,90.22172782004574
+"Grimes, Flynn and Guzman College",209069,2007,MCA,8 AM - 5 PM,66,"Library, Cafeteria, Sports Complex, Gym, Research Centers",11.157050142722316,88.94606664590869
+Carrillo-Williams College,226060,2014,"M.Sc, MCA",9 AM - 5 PM,65,"Gym, Cafeteria, Library",26.509462091938875,72.4720264880646
+Evans-Nixon College,182721,1987,"Ph.D, M.Tech",10 AM - 3 PM,80,"Sports Complex, Labs, Cafeteria",16.944602738106713,81.41189119287577
+Byrd-Pearson College,22188,2008,M.Tech,10 AM - 4 PM,62,"Research Centers, Hostels, Sports Complex",17.43478646208314,80.584995796975
+Booth-Salazar College,176479,1999,"MBA, B.Sc",8 AM - 4 PM,78,"Labs, Gym, Research Centers, Sports Complex, Library",13.07399400562764,81.24032178410386
+"Savage, Wolf and Wright College",191642,1987,"Ph.D, MBBS, BCA",10 AM - 5 PM,96,"Cafeteria, Labs, Sports Complex",26.119783568873963,73.10872553052253
+"Bolton, Christian and Frederick College",116244,2008,"BBA, B.Tech",9 AM - 6 PM,67,"Library, Gym",17.531532650475796,74.73734172208344
+Mendoza and Sons College,106272,1960,"MCA, M.Tech, B.Sc",9 AM - 3 PM,68,"Labs, Sports Complex, Library, Cafeteria",15.052379759523223,88.07777905143848
+Davis-Turner College,253962,2015,"MBA, MCA",8 AM - 5 PM,90,"Sports Complex, Gym, Hostels",12.830705449023732,71.12061815771884
+Jefferson Ltd College,186003,1975,M.Sc,8 AM - 4 PM,72,"Hostels, Labs, Research Centers, Cafeteria, Library",34.61685557970944,89.7046826741292
+Richard LLC College,253160,1965,BBA,8 AM - 3 PM,75,"Research Centers, Hostels, Labs, Gym",30.51619723595607,70.45428853880189
+Dickerson-Garcia College,28016,1961,"M.Tech, MBBS, MBA",10 AM - 4 PM,99,"Gym, Library, Research Centers",24.089360854536174,75.57770616943951
+Smith-Garcia College,99989,2008,"BBA, B.Sc, M.Sc",9 AM - 5 PM,72,"Sports Complex, Cafeteria, Gym",16.925915486484627,89.47605055794324
+"Short, Johnston and Jones College",27788,2008,"BBA, MCA",10 AM - 4 PM,94,"Cafeteria, Labs, Library",10.898822252859155,80.12416823804861
+Crane-Dunlap College,291703,2019,"Ph.D, B.Tech",8 AM - 6 PM,60,"Hostels, Gym",34.92848111089771,87.78613332761435
+Page-Thomas College,234856,1969,"B.Tech, M.Tech, MBBS",10 AM - 5 PM,89,"Research Centers, Hostels, Cafeteria",32.42977524938777,91.55171286759199
+Dixon Group College,38675,1962,"MCA, B.Sc, MBBS",8 AM - 5 PM,100,"Cafeteria, Gym, Library, Hostels",27.878594507693013,88.11482030934405
+Howe PLC College,42563,1963,Ph.D,9 AM - 5 PM,88,"Library, Research Centers, Labs, Gym, Hostels",17.8521170532223,75.37655843749589
+Edwards and Sons College,257938,1954,"Ph.D, M.Sc, M.Tech",8 AM - 6 PM,78,"Research Centers, Cafeteria, Library, Sports Complex, Gym",24.337558522415897,75.25671665001887
+Williams-Baldwin College,57213,2015,"BCA, MBA, BBA",9 AM - 5 PM,62,"Labs, Sports Complex, Library, Research Centers, Gym",23.973714324339888,84.15439416454808
+Vega-Smith College,269026,1972,"BCA, MBA, B.Sc",8 AM - 5 PM,77,"Hostels, Sports Complex",31.10420009568064,96.9496801491008
+Dennis-Lopez College,194789,1973,"Ph.D, M.Tech",9 AM - 6 PM,76,"Cafeteria, Labs, Library, Hostels",11.340006559789936,95.3720463669622
+"Wallace, Martinez and Roberts College",168956,2002,M.Tech,10 AM - 4 PM,75,"Cafeteria, Library, Hostels",32.826145313986146,84.40496141634523
+Hines Ltd College,280981,2015,"BCA, MCA",8 AM - 4 PM,71,"Library, Labs",36.19667252515155,68.52829323494127
+"Williams, Moss and Abbott College",194771,1958,"M.Tech, MBBS",10 AM - 4 PM,87,"Library, Labs, Sports Complex, Cafeteria, Gym",20.086355981067832,89.2087046674865
+"Blair, Gonzalez and Galvan College",58485,1999,"MBBS, BBA",9 AM - 3 PM,70,"Hostels, Library, Labs",13.354292449147167,84.80971179222172
+Ross-Baker College,218685,1999,"MBA, BCA, BBA",8 AM - 4 PM,80,"Sports Complex, Gym, Cafeteria",27.110339225911417,81.598885440297
+Byrd Ltd College,194987,1955,"MBBS, BBA",9 AM - 6 PM,92,"Sports Complex, Research Centers, Library, Labs, Cafeteria",10.520588677224787,71.48797187309655
+Odom Ltd College,68532,2014,"B.Tech, M.Sc",8 AM - 5 PM,82,"Research Centers, Hostels, Labs",14.61800402978584,92.35303498512235
+"Manning, Lynch and Russell College",152453,1990,MCA,9 AM - 4 PM,60,"Library, Cafeteria, Sports Complex, Research Centers",25.417538950159162,79.24050833777545
+Hill Inc College,291364,1982,MBBS,8 AM - 4 PM,79,"Library, Sports Complex, Gym, Cafeteria, Labs",35.14205328761662,72.08950386907338
+Jones-Mcdowell College,245512,1973,"M.Sc, BCA",8 AM - 3 PM,75,"Sports Complex, Cafeteria, Labs, Gym",35.89059059729681,92.5950124731485
+"Strong, Hall and Floyd College",139378,2009,M.Tech,8 AM - 5 PM,60,"Research Centers, Sports Complex, Library, Hostels",16.51088205438922,94.46629936081086
+Gonzalez PLC College,60918,1955,"Ph.D, BBA, B.Sc",10 AM - 6 PM,94,"Gym, Sports Complex, Research Centers",35.721107180131014,96.09180213497712
+Galvan-Cook College,282126,2003,"MCA, MBA, BCA",8 AM - 6 PM,63,"Cafeteria, Labs, Sports Complex, Gym",8.381102045815764,84.35416920562633
+Jarvis-Haas College,143455,1987,"MBA, MCA, Ph.D",10 AM - 5 PM,88,"Library, Labs",26.384344176879548,77.00399997103156
+Burton-Fox College,213518,1956,"MCA, M.Sc, BBA",9 AM - 3 PM,99,"Sports Complex, Cafeteria, Hostels, Gym, Library",27.356621000756572,96.09686925229016
+"Bonilla, Payne and Sullivan College",115173,1963,"Ph.D, BCA",10 AM - 3 PM,83,"Cafeteria, Labs, Gym, Research Centers, Sports Complex",29.09062796408594,77.72878042934781
+Hoover-Gross College,132230,1950,"BBA, MBA, B.Tech",10 AM - 4 PM,66,"Labs, Hostels",12.79500927875997,82.54076853435554
+Harrison-Clark College,221353,2011,B.Sc,8 AM - 4 PM,90,"Research Centers, Sports Complex",35.27013594490332,75.92238017303798
+Johnson-Harrington College,180366,2013,B.Tech,10 AM - 5 PM,84,"Cafeteria, Labs, Gym",9.370635574342344,77.61781838942792
+Webb LLC College,45270,2017,"Ph.D, MCA",10 AM - 3 PM,94,"Gym, Hostels, Labs, Research Centers",9.018348786825321,78.82459334473609
+"Greene, Haney and Moore College",204718,1996,"M.Tech, B.Sc",8 AM - 3 PM,81,"Library, Sports Complex, Cafeteria",32.55866941767471,92.19130651490995
+Morales LLC College,214863,1958,"B.Sc, MBA",8 AM - 4 PM,78,"Sports Complex, Gym, Research Centers",8.578350966331978,79.98100571263373
+"Chapman, Nelson and Rodriguez College",149639,2019,B.Tech,8 AM - 5 PM,67,"Gym, Research Centers, Cafeteria",28.57726994122301,79.77973437572066
+Elliott Group College,239690,2005,"MCA, M.Tech",8 AM - 3 PM,60,"Cafeteria, Gym",25.610124982819702,82.5019193807591
+Atkinson-Stephens College,187758,2018,"M.Sc, MBA",9 AM - 4 PM,68,"Hostels, Gym, Labs",21.91008358011898,69.83358523457665
+Welch-Larsen College,21313,1959,MBA,9 AM - 3 PM,91,"Library, Cafeteria",19.467090123086855,73.99007259200938
+Weiss-Stephens College,56875,1976,"MCA, M.Tech",10 AM - 4 PM,61,"Library, Research Centers, Hostels, Labs, Cafeteria",30.029698550966643,91.264150813037
+Rios and Sons College,137860,1975,"MBBS, BBA, B.Sc",9 AM - 3 PM,84,"Sports Complex, Library",18.032213316211486,81.74733816528541
+Boyd Ltd College,58137,1984,"B.Sc, B.Tech, M.Sc",8 AM - 4 PM,78,"Labs, Library, Research Centers",8.424969115226684,92.02144171302854
+Bates-Jensen College,169248,1956,"BBA, M.Tech",8 AM - 4 PM,63,"Library, Hostels",34.90161479864902,80.04788898779162
+Thompson Inc College,20711,1966,"MCA, B.Tech, B.Sc",8 AM - 4 PM,67,"Cafeteria, Hostels",26.728810201568916,96.32509761316095
+"Aguilar, Lewis and Barr College",172728,1951,"MBA, M.Sc, M.Tech",9 AM - 5 PM,60,"Sports Complex, Gym, Labs, Cafeteria",16.25295059308537,95.59358056385334
+Powell Inc College,148270,2008,"M.Sc, MBBS, MCA",8 AM - 6 PM,60,"Cafeteria, Sports Complex",33.97514518071929,93.20188263243868
+Farmer Ltd College,111597,1980,"B.Tech, MBBS",10 AM - 3 PM,100,"Hostels, Cafeteria, Library",14.854255954910812,69.89883139405913
+Brown-Smith College,68702,1981,"BCA, MBA",9 AM - 6 PM,88,"Sports Complex, Gym",32.30656339879481,68.31455252927447
+"Bailey, White and Klein College",48519,1998,"B.Sc, MBA",9 AM - 5 PM,63,"Research Centers, Gym, Sports Complex, Hostels",11.210498728580287,70.14842397918697
+Hamilton-Randall College,225957,1983,"BCA, MCA, MBA",10 AM - 3 PM,82,"Research Centers, Library, Cafeteria, Sports Complex, Gym",30.778286350180814,93.20791302651931
+"Allison, Morgan and Nguyen College",187910,2013,BBA,8 AM - 6 PM,78,"Gym, Labs, Hostels",17.166103191205416,72.72473284698188
+Dixon Inc College,102632,1992,"M.Tech, B.Tech",9 AM - 3 PM,72,"Cafeteria, Library, Sports Complex, Labs, Hostels",30.75777106621589,70.00582672276433
+"Perkins, Black and Henry College",248566,1993,"BBA, B.Sc",8 AM - 3 PM,72,"Sports Complex, Labs, Hostels, Library",28.855512519789865,91.71745779244503
+Boyer Ltd College,273442,2017,"MBBS, MCA",9 AM - 6 PM,80,"Hostels, Labs, Cafeteria, Research Centers",27.642939786114948,71.64245883516072
+Sanchez LLC College,158177,1975,"B.Sc, MBA, MBBS",8 AM - 3 PM,86,"Cafeteria, Gym",27.158651944256093,74.68273472760022
+Marks-Oconnor College,200508,2008,"MCA, B.Sc, BBA",8 AM - 3 PM,64,"Research Centers, Library",10.161322885197318,73.80740691314693
+"Smith, Wong and Sanchez College",184123,1979,B.Sc,8 AM - 6 PM,65,"Cafeteria, Gym, Sports Complex",8.954583980468168,85.29828969683203
+"King, Reed and Ramsey College",57332,2000,"MBBS, M.Sc, MBA",10 AM - 6 PM,63,"Labs, Cafeteria, Library, Hostels",12.953530308757813,75.47292889431861
+Gray PLC College,223806,1993,"M.Tech, BBA",8 AM - 6 PM,99,"Hostels, Cafeteria, Sports Complex",10.762892238852263,83.6841296500899
+Brown-Davis College,133606,2012,"MBBS, MBA, Ph.D",9 AM - 6 PM,78,"Research Centers, Labs, Cafeteria, Sports Complex",16.976624866291143,72.51670508461322
+"Gordon, Campbell and Fowler College",54212,2015,"BCA, B.Sc",10 AM - 4 PM,74,"Cafeteria, Sports Complex, Labs, Research Centers, Hostels",30.149589691674926,78.4443982596719
+Dunn Group College,92232,1994,MBBS,10 AM - 4 PM,93,"Cafeteria, Labs, Research Centers",25.393912203195942,72.44922161034765
+Montgomery Group College,56239,1990,MBA,8 AM - 5 PM,97,"Cafeteria, Hostels, Research Centers, Gym",23.421891697666346,80.77720272262407
+Summers PLC College,195594,1974,"MCA, B.Sc",10 AM - 6 PM,61,"Sports Complex, Labs, Cafeteria",16.91639897603747,78.45936709519616
+Shaw Inc College,50853,1967,BCA,9 AM - 6 PM,81,"Sports Complex, Labs, Library, Cafeteria, Hostels",10.851783649331495,93.83350921874529
+English-Lowe College,70746,2007,"MBA, BCA, MBBS",9 AM - 6 PM,98,"Labs, Hostels, Library",13.37102877400325,71.93925920310387
+Morrow-Barajas College,55458,1959,"MBA, M.Tech, MBBS",8 AM - 5 PM,60,"Sports Complex, Cafeteria, Research Centers, Library, Labs",32.633166518226375,94.67577648555064
+"Williams, Thomas and Hernandez College",241972,2012,"BBA, MBBS",8 AM - 4 PM,100,"Cafeteria, Research Centers",26.20173746406769,79.85700565731224
+"Bradshaw, Walsh and Patterson College",221310,1974,"M.Sc, M.Tech",9 AM - 3 PM,86,"Hostels, Gym",11.59428732874128,77.15563490649933
+"Wise, Castro and Sullivan College",117807,1957,M.Tech,9 AM - 5 PM,98,"Cafeteria, Library",19.853831762649808,85.70613432698644
+King-Wallace College,131166,1997,MCA,8 AM - 3 PM,72,"Cafeteria, Sports Complex",23.6042187924135,79.56213430143373
+Anderson LLC College,89498,2018,B.Sc,10 AM - 5 PM,69,"Hostels, Library, Research Centers, Sports Complex",19.7998564633251,69.40647962440038
+Woods-Morris College,89252,1967,"M.Tech, MCA",8 AM - 4 PM,95,"Sports Complex, Library, Gym",32.955504072537096,74.19812103873221
+Middleton and Sons College,195332,1985,"MCA, BCA, Ph.D",8 AM - 5 PM,78,"Research Centers, Sports Complex, Labs",8.665491021600003,96.62298433075841
+Taylor LLC College,217381,1966,"Ph.D, MBBS",8 AM - 5 PM,87,"Research Centers, Library, Sports Complex",13.352369906288102,77.62879419527279
+Forbes-Berry College,205769,1992,"BBA, MBA, Ph.D",9 AM - 6 PM,76,"Gym, Research Centers",14.68082008240989,87.57475828828154
+"Long, Chang and Miller College",164866,2002,B.Tech,8 AM - 5 PM,66,"Cafeteria, Library, Gym",26.303867266625904,87.39062683668035
+Padilla-Davenport College,227595,2016,"BBA, Ph.D",8 AM - 3 PM,82,"Research Centers, Library, Sports Complex, Cafeteria",22.7422778462886,72.60979435833814
+Garcia LLC College,243057,1959,B.Tech,9 AM - 6 PM,71,"Cafeteria, Labs, Research Centers",27.45581252119561,74.6395633126412
+Weeks and Sons College,144190,1988,"MBBS, MCA",10 AM - 3 PM,80,"Gym, Sports Complex, Cafeteria, Labs",10.58087176168461,86.395082523009
+"Allen, King and Flowers College",217635,1974,"MBA, BCA",8 AM - 5 PM,82,"Hostels, Research Centers",13.818261894019221,84.80037668805893
+"Middleton, Love and Grimes College",209124,1968,"BBA, MBA, MBBS",8 AM - 6 PM,78,"Library, Hostels, Sports Complex",27.747162584333655,74.65264411863282
+"Jones, Smith and Turner College",126546,1956,"MBA, M.Tech, MCA",10 AM - 3 PM,79,"Labs, Sports Complex",22.79564785640814,86.85723396169898
+Smith-Hernandez College,281707,1961,Ph.D,9 AM - 6 PM,66,"Research Centers, Sports Complex, Hostels, Labs",15.144559513275912,92.94026300255769
+Palmer and Sons College,199953,2019,"M.Tech, B.Tech",9 AM - 6 PM,71,"Library, Gym, Sports Complex, Labs",8.826234830598553,94.2145611760899
+Horton-Crane College,298210,2005,Ph.D,10 AM - 5 PM,71,"Gym, Cafeteria, Library, Research Centers, Sports Complex",31.22652557184505,72.4407022347004
+"Lee, Ross and Willis College",288864,1961,"BCA, B.Tech, BBA",9 AM - 6 PM,92,"Library, Hostels, Research Centers, Gym",18.53038282162427,81.58073747952167
+"Holloway, Andrews and Martinez College",21452,1973,"MBA, MCA, M.Tech",9 AM - 6 PM,64,"Library, Hostels, Sports Complex, Cafeteria",21.48498447932718,85.01699745864954
+"Scott, Underwood and Gamble College",272067,1992,"MBA, B.Tech",10 AM - 6 PM,74,"Gym, Cafeteria, Hostels, Library, Research Centers",31.45143460941473,82.33967567170455
+Ramos-Burke College,84623,1962,BBA,8 AM - 3 PM,72,"Sports Complex, Hostels",34.50834683782234,83.6074875337452
+Hester-White College,291964,1973,"B.Sc, MBBS, MCA",9 AM - 6 PM,81,"Labs, Gym",35.92880353931161,93.98395111600843
+Martin LLC College,262830,1951,"BBA, MBBS, B.Sc",10 AM - 6 PM,71,"Library, Labs, Gym, Hostels",30.30395376738262,95.370458528899
+"Ramirez, Duran and Horton College",129218,2010,MBA,8 AM - 5 PM,72,"Library, Research Centers, Gym, Sports Complex, Hostels",9.217735615709103,72.99856380629758
+Martin PLC College,244898,2002,"MBA, B.Tech",9 AM - 5 PM,95,"Cafeteria, Gym, Sports Complex",32.79666404971178,87.84550957543887
+Callahan-Young College,58733,1961,"BCA, B.Tech, B.Sc",9 AM - 3 PM,81,"Sports Complex, Research Centers, Labs, Cafeteria",17.74549532790626,74.75969685577364
+Farrell Inc College,40225,1961,"B.Sc, Ph.D, M.Tech",10 AM - 5 PM,95,"Research Centers, Library",12.590359217587949,88.09725371218855
+Ryan Ltd College,155595,1975,"MBA, BCA",10 AM - 4 PM,76,"Cafeteria, Gym, Library, Research Centers, Hostels",36.88071478870488,88.65252063869502
+Smith Ltd College,49106,1972,"MBBS, B.Tech",9 AM - 5 PM,98,"Gym, Library",33.01423945328677,78.2825594154551
+Stone PLC College,212542,2013,"B.Tech, M.Sc, MCA",8 AM - 4 PM,99,"Research Centers, Gym",32.4625904161382,91.66166228284976
+Harrison-Blair College,281182,1986,"MCA, Ph.D",9 AM - 5 PM,87,"Library, Gym, Sports Complex",12.339775913886909,81.86266350423487
+Farmer-Fisher College,68063,1992,"MBA, B.Tech, BBA",9 AM - 6 PM,91,"Research Centers, Hostels, Cafeteria, Library, Labs",12.400760239146315,88.68839558233078
+"Lee, Jenkins and Lambert College",31198,2014,"BBA, M.Tech",10 AM - 4 PM,86,"Research Centers, Sports Complex, Hostels, Labs, Library",32.922762102979945,92.72651294182634
+Lewis-Willis College,254417,1961,BCA,10 AM - 3 PM,92,"Hostels, Labs, Library",31.43005855662422,91.6727009366978
+Saunders-Graham College,159412,1990,"MCA, BCA",9 AM - 4 PM,91,"Library, Research Centers",15.066563585135297,93.15700694292195
+Simpson-Khan College,135744,1954,"Ph.D, B.Sc, M.Sc",10 AM - 6 PM,77,"Sports Complex, Gym",35.791463467582105,92.86048854633337
+"Rivera, Williams and Fernandez College",244764,2020,"BBA, Ph.D, B.Tech",9 AM - 5 PM,63,"Library, Hostels, Cafeteria, Research Centers",17.402949473005656,80.70278561656043
+Lowe-Scott College,147830,1998,"BCA, BBA",9 AM - 3 PM,85,"Sports Complex, Library",20.393451691198404,73.44757475326666
+Williamson-Crawford College,248421,1954,"MBA, BCA",9 AM - 6 PM,93,"Gym, Labs",24.637688544706066,86.12310981293558
+Walters-Crawford College,37171,2010,"Ph.D, MBBS, MBA",9 AM - 3 PM,92,"Labs, Cafeteria, Sports Complex, Hostels, Research Centers",20.40156429508633,89.30736313999611
+Davis Ltd College,185078,1994,"M.Tech, MBA",8 AM - 3 PM,83,"Research Centers, Sports Complex",35.121049131625455,81.44805682316004
+Jennings-Baker College,136265,1951,"Ph.D, M.Sc, MBBS",8 AM - 6 PM,84,"Hostels, Research Centers, Sports Complex",27.41825038522699,89.5640129557715
+Mann LLC College,160537,1957,B.Tech,10 AM - 3 PM,86,"Labs, Gym, Research Centers",33.95779423642129,82.40610492960542
+Moore-Freeman College,286738,1969,"Ph.D, B.Sc, BBA",9 AM - 5 PM,93,"Library, Cafeteria, Sports Complex, Gym, Hostels",27.051560929937583,72.84663794438406
+"Garner, Rangel and Shaw College",55050,2007,"M.Sc, M.Tech",8 AM - 6 PM,68,"Labs, Library, Sports Complex, Cafeteria",32.82206911177518,73.34014966018867
+"Weaver, Whitney and Peters College",76326,2009,"B.Tech, MBBS",10 AM - 3 PM,86,"Hostels, Library, Cafeteria",22.69448798356418,96.66942523705569
+"Cox, Merritt and Jackson College",35901,1958,MBA,10 AM - 6 PM,94,"Sports Complex, Labs, Cafeteria, Research Centers, Gym",12.718561933716837,76.2743807248404
+Gray Inc College,54484,2014,"BBA, BCA, M.Tech",8 AM - 6 PM,94,"Cafeteria, Research Centers, Labs, Hostels",9.103094867600113,76.65332784693136
+Warren-Pope College,37823,2012,"B.Tech, M.Tech, BBA",8 AM - 4 PM,60,"Library, Cafeteria, Research Centers, Hostels, Labs",16.042875566739305,68.21390843495092
+Gonzales-Bradford College,267775,2018,"MCA, MBBS, Ph.D",9 AM - 4 PM,64,"Hostels, Research Centers",23.709397556669487,76.1703140075254
+Walter-Ortiz College,297696,1995,"MBBS, B.Tech, M.Sc",8 AM - 6 PM,73,"Sports Complex, Library, Research Centers, Hostels, Cafeteria",19.08115702144496,83.48192874739593
+Collins Inc College,95447,1951,BBA,10 AM - 6 PM,74,"Labs, Cafeteria",29.769253390940648,70.41126322234017
+"Decker, Jackson and Phillips College",169686,1976,"MBA, MCA",9 AM - 3 PM,90,"Research Centers, Library, Cafeteria, Hostels",31.949250031403782,92.34819519342079
+"Jacobs, Ortega and Mccoy College",115219,1955,"MCA, M.Tech, BCA",9 AM - 5 PM,88,"Cafeteria, Sports Complex, Labs, Library, Gym",34.614803341125054,88.99810393852766
+Baker LLC College,69104,1977,"B.Tech, BCA, MCA",9 AM - 3 PM,64,"Hostels, Library, Gym",16.621755153066463,72.4606831205253
+Martin PLC College,203734,2011,"MCA, B.Sc, M.Sc",8 AM - 5 PM,69,"Cafeteria, Gym, Library, Labs, Research Centers",18.460411019673494,72.42267908702132
+"Jones, Mitchell and Tyler College",96281,2015,MBA,10 AM - 4 PM,65,"Hostels, Gym, Library, Research Centers, Sports Complex",34.86772563896242,74.80600518211867
+"Hogan, West and Hernandez College",92414,1972,"M.Tech, BBA",8 AM - 4 PM,83,"Cafeteria, Library, Hostels",19.700861689607656,80.68202786064765
+Middleton LLC College,56888,1990,"M.Tech, MBA",9 AM - 3 PM,86,"Sports Complex, Hostels, Gym, Cafeteria, Research Centers",33.27007499309943,91.7704592452518
+"Cole, Shaw and Cannon College",272855,1994,Ph.D,10 AM - 5 PM,83,"Research Centers, Labs, Library, Gym",34.722803203792424,85.36964372204883
+Salinas Group College,75688,1971,MCA,10 AM - 3 PM,84,"Sports Complex, Cafeteria, Hostels, Library",13.640454587230664,86.50626393188234
+"Kramer, Sandoval and Sandoval College",128854,1957,"MCA, B.Tech, B.Sc",10 AM - 4 PM,76,"Sports Complex, Hostels, Research Centers",18.348863277463366,73.8125036238892
+Stuart Group College,104424,1952,Ph.D,8 AM - 4 PM,66,"Cafeteria, Sports Complex, Labs",32.644252131841654,76.56092154338766
+Lane Inc College,167942,1958,"BBA, MCA",9 AM - 3 PM,99,"Hostels, Sports Complex, Gym, Research Centers",18.21531418810641,89.83088369439794
+"Myers, Mitchell and Bowen College",202662,2007,"Ph.D, B.Sc",10 AM - 3 PM,71,"Gym, Hostels",12.75361230193648,72.53432503164106
+"Edwards, George and Ramirez College",204709,1973,"B.Tech, BBA",9 AM - 4 PM,63,"Labs, Gym, Hostels, Research Centers, Sports Complex",27.065133255984616,95.19954069266302
+West Group College,95786,2007,M.Tech,8 AM - 5 PM,90,"Sports Complex, Cafeteria, Labs, Hostels",24.45791456208483,75.37230113579879
+Daniels-Williams College,64874,1985,BCA,10 AM - 4 PM,75,"Research Centers, Library, Labs, Gym, Sports Complex",30.360912363726754,74.6207810043554
+Gardner LLC College,279459,2004,"BCA, B.Sc",8 AM - 6 PM,100,"Labs, Sports Complex, Cafeteria, Research Centers",30.329951122357468,82.52317681420845
+"Welch, Anderson and Dawson College",153861,1988,Ph.D,9 AM - 4 PM,61,"Hostels, Gym, Labs",24.65926942935632,68.49882397039873
+"Arnold, Olsen and Kemp College",161590,2020,"M.Tech, M.Sc",9 AM - 6 PM,90,"Hostels, Sports Complex, Library, Labs, Research Centers",10.682515660952657,85.33155819128356
+George and Sons College,131688,1978,"M.Tech, MBA, MCA",8 AM - 6 PM,70,"Research Centers, Gym, Library",18.3662910009513,94.81583045170403
+Oneill-Glover College,235748,2015,BCA,9 AM - 4 PM,65,"Gym, Research Centers",19.187160614731326,96.52340408820476
+"Taylor, Hart and Archer College",134973,1985,"MBBS, M.Tech, BCA",10 AM - 6 PM,64,"Cafeteria, Library, Labs",32.37420502867742,95.06125328034524
+Lambert and Sons College,223358,1985,"B.Sc, Ph.D",9 AM - 3 PM,78,"Library, Cafeteria, Labs, Gym, Hostels",22.17360544723103,83.32090785676607
+Brown-Jones College,41067,1960,"MCA, B.Tech, M.Sc",9 AM - 3 PM,66,"Library, Labs, Sports Complex, Hostels",34.09726221715235,77.4876538374128
+Espinoza-Mann College,289202,1989,"MCA, M.Tech, M.Sc",8 AM - 6 PM,71,"Library, Cafeteria, Gym",15.458845370499265,70.17778548254716
+Jones and Sons College,41703,1998,"B.Tech, B.Sc, Ph.D",9 AM - 5 PM,70,"Library, Hostels, Gym, Sports Complex",31.058500499039923,85.2717035487083
+Cooke Group College,173080,2008,"M.Sc, B.Sc",9 AM - 4 PM,88,"Library, Research Centers, Labs",15.579991472382417,90.90528292289451
+Whitehead-Rowland College,291975,1972,"MCA, MBA",10 AM - 6 PM,99,"Cafeteria, Gym, Hostels",19.35488603721727,96.96790873425068
+Bailey-Dillon College,171761,1952,MBA,8 AM - 5 PM,65,"Hostels, Labs, Research Centers, Gym",30.313992545133498,92.19763423973662
+"Sweeney, Graham and Myers College",136689,1994,BBA,10 AM - 3 PM,79,"Hostels, Sports Complex, Labs, Library",19.703864885509887,70.49443769696732
+"Campbell, Mason and Ryan College",93382,1970,"MCA, M.Sc, B.Tech",10 AM - 4 PM,99,"Hostels, Gym, Research Centers",24.554438601785353,88.59381019085453
+Jenkins Group College,77830,2013,"M.Sc, Ph.D, MBA",8 AM - 6 PM,73,"Research Centers, Labs, Gym",28.504099910763085,73.01573200977514
+Torres and Sons College,161222,1979,"M.Sc, MBBS, Ph.D",8 AM - 4 PM,80,"Hostels, Labs, Sports Complex, Cafeteria, Library",10.116093849314097,96.3259439486519
+Kelly-Carlson College,145614,2014,"Ph.D, MBA, M.Sc",9 AM - 4 PM,96,"Library, Gym, Cafeteria",36.79438176235378,87.34530435838168
+Vargas and Sons College,97053,2020,"M.Tech, B.Sc, Ph.D",8 AM - 5 PM,83,"Library, Sports Complex, Research Centers",22.27963548885515,69.14108895988181
+Rojas-Houston College,289128,1978,BCA,10 AM - 3 PM,80,"Hostels, Library, Cafeteria, Sports Complex, Gym",14.807356466515396,91.95906024463878
+"Anderson, Payne and Lewis College",206105,2004,"BBA, Ph.D, MCA",10 AM - 6 PM,91,"Sports Complex, Research Centers, Cafeteria, Gym",10.86676258616195,94.78122953607814
+"Walsh, Garcia and Oneill College",111185,2018,MBBS,8 AM - 3 PM,90,"Research Centers, Cafeteria, Sports Complex",24.052572744715853,78.01985143494507
+Wells-Larson College,76038,1982,"MBA, Ph.D, BCA",8 AM - 3 PM,94,"Cafeteria, Gym, Library, Labs, Research Centers",21.18933381239204,74.28965506219541
+Chambers-Davis College,117730,2004,"MBA, B.Tech, MCA",8 AM - 5 PM,61,"Gym, Hostels, Sports Complex, Library",31.535721409927444,93.80098806848846
+Wolf-Berry College,234131,2004,"M.Tech, MBA, B.Tech",9 AM - 5 PM,86,"Research Centers, Gym, Sports Complex",26.971624510389017,71.97095302141622
+"Gill, Espinoza and Johnson College",234405,1959,"BCA, M.Tech",10 AM - 5 PM,61,"Research Centers, Cafeteria, Hostels, Labs",34.35235347969155,84.38028587983491
+Jones and Sons College,214058,1964,"B.Sc, BBA",9 AM - 6 PM,75,"Gym, Library, Hostels, Research Centers",35.61802468340892,95.8519843758526
+George-Dickerson College,95728,1952,"B.Tech, M.Tech, BCA",8 AM - 3 PM,79,"Research Centers, Library",22.681543793861344,90.82567487179034
+Boyd-Barnett College,46129,1995,"M.Sc, BBA, BCA",8 AM - 3 PM,82,"Sports Complex, Labs, Research Centers, Hostels, Gym",11.290804721470732,74.82140599333935
+Booker and Sons College,97171,1991,B.Sc,8 AM - 3 PM,90,"Research Centers, Labs, Hostels, Library",26.064922973727775,73.48367489575449
+Jackson Group College,245988,1953,"M.Tech, B.Sc",10 AM - 3 PM,72,"Sports Complex, Cafeteria, Research Centers",18.63046803673858,84.95813806091473
+"Simon, Willis and Turner College",271831,1971,"B.Sc, Ph.D",10 AM - 5 PM,94,"Research Centers, Sports Complex",19.772793395379004,78.84785515859852
+Weaver-Smith College,137645,1974,"BBA, M.Sc, M.Tech",8 AM - 5 PM,98,"Labs, Gym, Cafeteria",13.94746205782845,71.54236574319478
+Mcgee Inc College,35679,1970,"M.Tech, B.Tech",8 AM - 4 PM,76,"Cafeteria, Hostels, Gym, Library",32.05590548540938,88.86713467784614
+"Calderon, Lopez and Cannon College",151198,2012,MBA,10 AM - 4 PM,87,"Sports Complex, Library",11.880909740378728,69.37234513555659
+Berry-Doyle College,20921,1954,Ph.D,10 AM - 6 PM,79,"Research Centers, Gym",17.590858708735333,71.97312502586979
+Thomas and Sons College,247045,1964,Ph.D,10 AM - 4 PM,86,"Cafeteria, Library, Gym, Labs",13.56549396540139,76.58083959456701
+Rich-Levy College,53733,1991,"B.Sc, M.Sc, B.Tech",10 AM - 6 PM,86,"Sports Complex, Hostels",16.177766757305697,75.89408215008253
+"Brown, Pittman and Baxter College",236494,2000,"BBA, MBBS, Ph.D",10 AM - 5 PM,78,"Research Centers, Library, Gym, Labs, Cafeteria",11.631792844960732,95.55459575495306
+Bailey-Campbell College,252054,1953,Ph.D,8 AM - 4 PM,98,"Cafeteria, Gym, Labs, Sports Complex, Research Centers",21.312725082262368,85.88546988096795
+"Alvarez, Conrad and Campos College",287669,1965,"B.Sc, MBA, MCA",8 AM - 6 PM,72,"Hostels, Gym, Library, Sports Complex, Research Centers",8.803750946477997,96.31117003792849
+Moore-Burns College,283407,1976,"MBBS, B.Sc, BCA",8 AM - 6 PM,77,"Cafeteria, Hostels, Gym",26.944112125295263,80.20875714023114
+"Ramsey, Vincent and Gregory College",228403,2016,BBA,10 AM - 3 PM,71,"Research Centers, Cafeteria, Hostels",8.471141679825218,86.85552940106697
+"Lee, Griffin and Ortega College",132641,1999,"MCA, M.Tech",10 AM - 3 PM,64,"Sports Complex, Library, Cafeteria, Gym, Research Centers",17.189312562739183,72.39123096115259
+Greer LLC College,167206,1963,B.Sc,10 AM - 4 PM,73,"Labs, Gym",19.18594200945551,95.23141434627846
+"Brock, Harper and Camacho College",240114,1986,MBA,9 AM - 5 PM,88,"Sports Complex, Hostels",13.633906518929104,83.50019877434852
+Le-Tran College,139075,2018,"MBA, MBBS, B.Sc",8 AM - 6 PM,97,"Research Centers, Library, Hostels, Cafeteria, Labs",19.231177672515138,95.08166865270947
+Cunningham Group College,271411,1992,"B.Sc, MBBS",8 AM - 6 PM,76,"Sports Complex, Gym, Research Centers, Labs, Cafeteria",16.330433760096206,86.95992577248725
+Robinson Group College,54272,1967,MBBS,9 AM - 5 PM,97,"Cafeteria, Hostels, Research Centers, Labs",35.086383623626254,96.94690078882144
+Potter-Gonzalez College,212238,1977,"MBA, BCA",10 AM - 5 PM,89,"Library, Labs, Sports Complex, Hostels",32.16822317687273,68.71421215042331
+Harrison-Cooper College,144097,1971,"MBA, B.Tech",9 AM - 6 PM,97,"Research Centers, Library, Sports Complex, Labs",23.991409813820127,93.85817801644895
+"Noble, Williams and Reid College",104005,1988,"M.Tech, BBA, B.Sc",10 AM - 5 PM,73,"Gym, Sports Complex, Labs, Research Centers",19.429379533598528,95.56854109135138
+"Williams, Mcguire and Barrett College",115163,1950,"B.Sc, M.Sc",9 AM - 6 PM,92,"Sports Complex, Gym, Labs, Cafeteria, Research Centers",27.288590757003377,81.9805985774316
+Hoover PLC College,61657,1972,"MBA, B.Sc, MCA",10 AM - 6 PM,62,"Library, Sports Complex",33.055302399754595,75.8865394104802
+Hampton-Joseph College,85302,1990,"MBBS, Ph.D",8 AM - 5 PM,93,"Labs, Library, Gym, Hostels",14.066372582554385,81.87295308898702
+Clark PLC College,222477,2018,"MBBS, Ph.D, BCA",10 AM - 3 PM,94,"Research Centers, Cafeteria, Sports Complex, Gym, Labs",12.167118671791687,77.0333780775999
+Nunez-Singh College,156110,1950,"M.Sc, Ph.D",10 AM - 4 PM,70,"Sports Complex, Cafeteria",10.304764963767553,83.68427177563758
+"Fields, Davis and Swanson College",258365,2011,"B.Tech, M.Sc",8 AM - 4 PM,73,"Labs, Research Centers, Sports Complex, Hostels",22.04885643352982,76.97430693286742
+Allen Group College,98025,1951,B.Sc,8 AM - 3 PM,81,"Sports Complex, Cafeteria, Research Centers, Labs, Gym",22.51338524365576,94.87789074145543
+Swanson PLC College,143502,1959,"MBA, BBA",9 AM - 5 PM,66,"Library, Research Centers, Labs",35.76867625644907,80.8741823252373
+Gaines LLC College,76230,1959,MBA,10 AM - 3 PM,96,"Library, Hostels, Gym, Sports Complex, Research Centers",20.62970460082525,70.58267378602135
+Davis Group College,57429,1965,BBA,10 AM - 3 PM,75,"Sports Complex, Library, Cafeteria, Research Centers, Hostels",25.83203007197345,82.8994759794608
+Williams Inc College,148114,2015,B.Sc,10 AM - 4 PM,99,"Research Centers, Cafeteria, Gym, Hostels, Library",24.689262274054624,89.75522577886093
+"White, Carey and James College",236366,1950,"BBA, MBA",9 AM - 5 PM,98,"Sports Complex, Hostels, Cafeteria",30.06628716417948,92.37873408525003
+Dunn-Anthony College,65426,1951,"MBBS, B.Sc",9 AM - 3 PM,67,"Research Centers, Library, Hostels, Labs",31.922217391623647,83.79760915204542
+Henderson and Sons College,226692,2009,Ph.D,9 AM - 5 PM,80,"Library, Research Centers, Labs, Sports Complex, Hostels",23.55189767917296,95.85518302246416
+Schroeder-Evans College,240147,1973,"M.Sc, MBBS, MBA",10 AM - 4 PM,81,"Hostels, Sports Complex",20.338284834296942,87.1034429942209
+Lee-Evans College,85276,1972,"BCA, B.Sc, B.Tech",9 AM - 3 PM,74,"Cafeteria, Gym",17.153895657196795,91.81530734915363
+Thompson LLC College,56480,1950,Ph.D,9 AM - 6 PM,96,"Hostels, Cafeteria, Research Centers, Sports Complex",20.676031714985587,96.71758115400067
+Hernandez Inc College,181205,1983,"BCA, M.Tech, B.Sc",10 AM - 5 PM,73,"Gym, Hostels, Sports Complex, Labs",10.202813034842535,96.53895242178963
+"Rivera, Collins and Austin College",113479,1992,"BCA, M.Tech",8 AM - 6 PM,78,"Hostels, Cafeteria, Research Centers",14.593647355721057,84.68642332425921
+"Grant, Doyle and Olson College",149850,1986,"B.Tech, B.Sc",9 AM - 5 PM,90,"Hostels, Research Centers, Sports Complex, Labs, Library",33.35660084794007,75.90056272833058
+"Baker, Robinson and Baker College",111343,1996,MBA,9 AM - 5 PM,71,"Sports Complex, Gym, Library, Cafeteria",18.642288005204215,77.91253798792494
+Wallace LLC College,278487,2009,"B.Sc, M.Tech, M.Sc",10 AM - 6 PM,74,"Cafeteria, Library, Labs, Sports Complex",28.384372780561222,87.5566127584164
+Jackson PLC College,49097,1992,MBA,10 AM - 6 PM,64,"Gym, Sports Complex, Labs, Cafeteria, Research Centers",13.71412167462181,76.20191261948378
+"Christensen, Ellis and Cochran College",107773,1981,"B.Sc, Ph.D, BBA",8 AM - 4 PM,68,"Sports Complex, Cafeteria",26.04071063426494,78.50911598685033
+"Griffin, Blackwell and Ramirez College",296825,1985,MCA,9 AM - 6 PM,97,"Labs, Library, Hostels, Research Centers",36.73079587033659,86.75740784054268
+Shepard-Anderson College,25223,1971,MBA,9 AM - 5 PM,80,"Gym, Sports Complex, Library, Research Centers, Cafeteria",13.92201353567954,88.80650382807382
+Lewis Ltd College,209105,1969,"B.Sc, B.Tech",9 AM - 3 PM,87,"Library, Gym, Research Centers, Labs, Cafeteria",13.643045932028413,91.84308380052562
+"Brown, Miller and Schmidt College",276317,1974,"M.Tech, MBBS, MCA",10 AM - 5 PM,70,"Labs, Hostels, Gym, Sports Complex",36.418763493674355,70.351828740293
+Hogan Group College,124699,1987,"Ph.D, M.Tech",8 AM - 3 PM,83,"Gym, Labs",15.184861532584552,80.95974304044826
+Lowe Inc College,107353,2007,M.Tech,8 AM - 3 PM,70,"Library, Research Centers, Gym, Cafeteria",10.582174354841545,96.68359845352785
+"Cole, Davis and Hanson College",258087,1970,B.Tech,8 AM - 5 PM,91,"Hostels, Sports Complex, Cafeteria, Gym, Library",26.907911434641957,90.54877910400239
+Jackson LLC College,37276,2004,M.Sc,9 AM - 6 PM,66,"Labs, Sports Complex, Hostels, Cafeteria, Library",31.603854322223164,73.33604152760553
+Mcdonald-Parks College,225858,1992,MCA,10 AM - 4 PM,98,"Library, Research Centers, Labs, Gym",18.630784170400236,94.29424953644308
+"Rivera, Walker and Roberts College",140676,2007,B.Sc,9 AM - 6 PM,89,"Sports Complex, Labs, Gym, Hostels, Research Centers",32.30300839514328,91.90357598364633
+"James, Hurley and Kelly College",237225,1979,Ph.D,9 AM - 6 PM,90,"Library, Labs, Sports Complex, Gym",13.202125690368632,81.8731441391511
+Davenport-Leon College,164131,1960,"B.Tech, MBBS, M.Sc",8 AM - 6 PM,89,"Hostels, Cafeteria, Gym, Library",11.134727526054593,88.38753222209922
+"Livingston, Phillips and Harmon College",223389,1980,"MCA, M.Sc",9 AM - 3 PM,70,"Cafeteria, Labs, Research Centers",15.349981692729596,80.29729451878647
+"Mitchell, Lopez and Reid College",219439,1992,"BBA, B.Tech, MBA",10 AM - 3 PM,81,"Research Centers, Labs, Sports Complex",34.90525966852769,81.8952832257006
+Brown Ltd College,226830,1988,"B.Sc, MCA",10 AM - 6 PM,81,"Gym, Research Centers, Cafeteria, Library",23.197697013596848,94.39237406395824
+Cervantes-Bray College,194185,1989,"Ph.D, M.Tech",8 AM - 3 PM,66,"Cafeteria, Gym, Library, Labs",32.907033159210634,76.85094554453654
+"Morrison, Gordon and Dominguez College",100367,2010,"M.Tech, MBA, Ph.D",10 AM - 6 PM,75,"Library, Research Centers, Hostels, Labs, Gym",15.66813564393349,84.65380741858925
+"Miles, Reed and Everett College",54587,1955,"M.Tech, B.Tech",8 AM - 4 PM,95,"Research Centers, Sports Complex, Hostels",12.091546946008245,88.89343245848721
+"Miller, Livingston and Bennett College",153983,2018,M.Tech,10 AM - 4 PM,61,"Library, Hostels, Sports Complex, Labs, Cafeteria",31.902141019127157,86.29735857205084
+Love Group College,264891,1975,"MCA, MBA, M.Tech",9 AM - 4 PM,78,"Sports Complex, Hostels",33.797411956271105,74.86005540005472
+"Sanchez, Summers and Lee College",225119,1979,MCA,9 AM - 6 PM,81,"Research Centers, Labs, Hostels, Cafeteria",9.312601140954616,93.71128917908243
+Buck and Sons College,89308,2019,"MBA, BCA",10 AM - 6 PM,66,"Library, Sports Complex, Cafeteria, Research Centers, Gym",35.48878720087036,94.62341444658564
+Hoover Ltd College,152495,2012,"B.Sc, BBA, M.Tech",8 AM - 5 PM,62,"Cafeteria, Labs, Library, Hostels",21.69525860192318,90.87526341050344
+"Lopez, Reed and Moreno College",137635,1975,"M.Sc, Ph.D",9 AM - 4 PM,86,"Gym, Cafeteria, Sports Complex, Library, Research Centers",12.386679122575249,80.94971013142663
+Conner PLC College,26797,1990,MBBS,9 AM - 3 PM,73,"Labs, Sports Complex, Research Centers, Library",9.61926440505885,73.96162728608302
+"Newman, Sutton and Rush College",67125,1960,"B.Tech, B.Sc",9 AM - 5 PM,92,"Hostels, Cafeteria, Library, Gym",10.039105525803812,87.91198878388377
+Stevens-Ramos College,281038,1978,"M.Tech, B.Sc",10 AM - 3 PM,80,"Hostels, Library, Gym",23.97755018002462,68.05022955551762
+Solis LLC College,165603,1950,"Ph.D, BCA",8 AM - 6 PM,81,"Research Centers, Cafeteria, Labs, Hostels, Library",24.685543445594757,90.53732834550507
+Nichols and Sons College,105673,2017,"MBBS, Ph.D",8 AM - 6 PM,93,"Labs, Cafeteria, Sports Complex",15.404872106636905,83.39455800703479
+Andrade-Smith College,227463,1990,"MBBS, M.Tech",8 AM - 3 PM,90,"Research Centers, Cafeteria, Library",14.584015230927394,92.21865367213951
+Brock PLC College,103999,1961,Ph.D,9 AM - 3 PM,93,"Hostels, Sports Complex, Gym, Research Centers",19.046029902079162,84.33633913006298
+Bailey-Ayala College,201973,1966,"MBA, MBBS",10 AM - 6 PM,92,"Gym, Sports Complex",28.27300823858679,84.83680530976306
+Collins-Jones College,113693,2001,M.Sc,9 AM - 5 PM,84,"Hostels, Research Centers, Gym, Cafeteria, Sports Complex",20.728548275961803,77.31779628556345
+"Burke, Gaines and Graves College",97017,1979,"MCA, M.Sc",9 AM - 6 PM,83,"Cafeteria, Sports Complex",16.28792531750633,80.6262852382691
+Juarez and Sons College,200372,1997,"B.Sc, M.Tech",10 AM - 4 PM,66,"Research Centers, Cafeteria, Sports Complex, Hostels",13.998774844971354,79.15184606438466
+Oneal-Perez College,299952,2005,"BBA, MCA",10 AM - 6 PM,81,"Gym, Cafeteria",25.037215485125458,90.04476249967833
+Watson-Wright College,41968,1980,"MCA, MBBS",9 AM - 4 PM,73,"Library, Labs, Research Centers, Cafeteria, Gym",10.862225955558625,80.30273118890699
+Hall-Flynn College,275717,1966,"B.Tech, BCA, BBA",8 AM - 6 PM,87,"Gym, Cafeteria, Sports Complex, Library, Labs",16.40991564159146,94.91159666656253
+Peterson and Sons College,232628,1972,"BBA, BCA, MCA",8 AM - 4 PM,65,"Gym, Research Centers",23.60625944939457,96.00846206720752
+Williams-Mccarthy College,36885,1954,"BBA, MBBS, MBA",8 AM - 5 PM,66,"Labs, Hostels, Library, Sports Complex, Cafeteria",27.775346748221214,89.79787033314805
+Ross Inc College,42093,1997,"BCA, BBA",9 AM - 3 PM,93,"Library, Research Centers",24.04084279670596,87.42882807314852
+"Casey, Martinez and Mcintosh College",225507,1963,B.Sc,9 AM - 5 PM,70,"Library, Cafeteria, Sports Complex, Labs, Gym",29.889915664927948,80.39028849353866
+Howard-Hernandez College,116197,2015,B.Tech,9 AM - 5 PM,64,"Sports Complex, Labs",17.654999919340497,84.75906417556347
+Berry-Mason College,175467,1966,M.Tech,8 AM - 3 PM,70,"Research Centers, Gym, Library, Hostels, Labs",26.19582785609777,87.72892239026287
+"Cook, Arnold and Monroe College",60448,1956,"M.Sc, B.Sc",10 AM - 6 PM,71,"Gym, Sports Complex, Library",32.99124096523938,75.22057900081141
+Gonzalez-Little College,65577,1955,"MCA, Ph.D",10 AM - 5 PM,75,"Hostels, Labs",27.356927863339333,77.75715618773239
+Rodriguez Inc College,177261,1992,B.Sc,9 AM - 6 PM,65,"Hostels, Library, Labs, Sports Complex",29.539395754641163,78.1434157218397
+Morales LLC College,47466,1998,B.Tech,8 AM - 3 PM,92,"Library, Labs",31.591766936369513,90.52445833970157
+King PLC College,252763,2007,MCA,10 AM - 4 PM,72,"Library, Gym",14.973177863073559,93.07636540970823
+"Webb, Holder and Bailey College",155238,1958,M.Sc,10 AM - 3 PM,87,"Sports Complex, Labs, Gym, Research Centers, Cafeteria",31.267016094761253,68.68200961273278
+Patterson PLC College,135081,1950,"MBBS, M.Tech",8 AM - 6 PM,63,"Labs, Library, Research Centers, Sports Complex, Cafeteria",29.658524850720966,93.37866985288936
+Lindsey Ltd College,191975,1991,"B.Sc, MCA",10 AM - 5 PM,96,"Sports Complex, Research Centers, Library, Hostels",33.71467952305561,81.62658518960403
+"Vega, Valdez and Baldwin College",291787,2020,"M.Sc, BBA",10 AM - 3 PM,91,"Sports Complex, Research Centers",25.51953516353372,79.73568725189641
+English-Mann College,262270,1980,MBA,9 AM - 3 PM,90,"Labs, Cafeteria, Hostels",18.899632168769568,71.98939982629595
+Holmes and Sons College,283947,1980,B.Sc,8 AM - 5 PM,63,"Labs, Hostels, Sports Complex, Library",30.170063722900153,94.96585514067982
+Orr-Allen College,96742,2005,BBA,9 AM - 3 PM,100,"Cafeteria, Labs, Hostels",24.1914781216963,75.67067215426022
+"Myers, Leon and Brown College",93246,1965,"M.Tech, MCA",9 AM - 4 PM,66,"Sports Complex, Hostels, Research Centers, Cafeteria",18.495194973972936,80.86218366843697
+Allen LLC College,283448,1966,MCA,9 AM - 5 PM,73,"Cafeteria, Hostels, Labs, Research Centers, Library",23.04992001287813,95.68523740482287
+Hayes Inc College,200985,1998,"MCA, MBA, M.Tech",9 AM - 6 PM,86,"Sports Complex, Hostels, Research Centers",29.53524959134898,86.63256097925151
+"Williams, Evans and Hodge College",161690,1951,"B.Tech, BCA, BBA",10 AM - 5 PM,71,"Gym, Library, Labs",9.441377661965227,84.98064111822005
+Jennings-Gray College,128606,2005,"MBA, BBA, BCA",8 AM - 4 PM,72,"Gym, Cafeteria, Sports Complex, Library, Hostels",9.692822428601568,82.14503112898961
+Gilbert-Mccullough College,177673,2017,"BCA, B.Sc, Ph.D",8 AM - 3 PM,63,"Library, Hostels, Labs, Sports Complex",8.157238317295514,81.33184629857024
+Martinez-Hamilton College,279649,1975,"MBA, M.Tech",10 AM - 4 PM,64,"Gym, Labs, Sports Complex, Hostels",8.146944841462911,71.8251306135054
+"Jimenez, Mcdonald and Hall College",128343,1992,"BCA, BBA",8 AM - 5 PM,99,"Hostels, Gym, Research Centers, Labs, Library",23.339482018591276,83.75924800667471
+Martinez-Jones College,236448,1999,Ph.D,8 AM - 3 PM,93,"Research Centers, Labs, Cafeteria",29.84796657056961,71.37021515033787
+"Richardson, Hill and Villa College",136853,1974,MCA,8 AM - 4 PM,84,"Hostels, Gym",15.320606286880578,70.33060344399061
+Watson-Chan College,281476,2010,"M.Sc, BCA, M.Tech",8 AM - 3 PM,68,"Gym, Sports Complex, Cafeteria, Hostels, Research Centers",18.57293881794304,83.55179836327305
+Mckee Ltd College,50178,1997,"Ph.D, M.Tech",8 AM - 5 PM,76,"Hostels, Labs",30.868311322310912,75.9700269203349
+Brown Inc College,120926,1973,BCA,10 AM - 6 PM,82,"Cafeteria, Library, Research Centers, Labs, Hostels",21.213905668374007,86.05115299283885
+Johnson Group College,141194,2004,"MBA, BBA, M.Sc",9 AM - 4 PM,74,"Cafeteria, Research Centers",33.89399967068764,77.44221264818596
+Johnson and Sons College,26431,1985,"BCA, Ph.D, BBA",9 AM - 4 PM,81,"Hostels, Sports Complex, Cafeteria, Research Centers, Labs",36.27533399636797,68.14096771747987
+Smith PLC College,171614,1999,"BBA, MBBS",10 AM - 6 PM,85,"Library, Sports Complex, Cafeteria, Labs, Research Centers",13.539852518921169,96.79220955448605
+Baker-Harper College,264302,1963,B.Tech,8 AM - 5 PM,69,"Gym, Labs",31.013006689511123,95.56934118780518
+Gilbert-Singh College,212986,1980,"B.Sc, MBA, Ph.D",10 AM - 4 PM,93,"Labs, Gym, Sports Complex",19.721924258049174,84.83626353803741
+"Smith, Price and Mullins College",124516,2004,Ph.D,8 AM - 6 PM,80,"Sports Complex, Library, Hostels, Cafeteria, Gym",14.47551462309143,86.72914571919009
+"Blackwell, Miller and Bridges College",48156,1973,"MBBS, MBA",9 AM - 4 PM,71,"Gym, Research Centers, Sports Complex, Library",36.79170197774892,83.65491341986699
+Taylor-Santos College,243406,1962,MBA,10 AM - 6 PM,86,"Library, Cafeteria, Gym",25.817682294741097,78.0939960415574
+Brown and Sons College,67736,1988,"B.Tech, M.Tech, Ph.D",10 AM - 5 PM,87,"Sports Complex, Gym, Cafeteria, Library",35.22000293603715,86.94226518096592
+Mcdonald-Rosario College,50739,1975,"MBBS, BBA, MCA",9 AM - 3 PM,74,"Labs, Sports Complex, Cafeteria, Hostels, Research Centers",31.475137609547986,71.10728897992794
+Anderson-Keller College,216648,1998,"B.Tech, MCA",10 AM - 4 PM,98,"Sports Complex, Hostels",30.447354375281815,88.04578648488597
+Cole-Bryant College,267905,1990,MBA,10 AM - 5 PM,64,"Labs, Sports Complex",8.75785827158378,93.2079989968531
+"Scott, Wood and Williams College",104352,2003,"BCA, B.Tech",8 AM - 6 PM,87,"Library, Sports Complex, Gym",17.347434678269842,89.79118851095723
+Vaughn-Young College,217794,1999,"MCA, Ph.D",8 AM - 4 PM,70,"Hostels, Labs, Library, Research Centers",35.32786482430866,88.88397319921276
+"Nguyen, Jones and Ross College",114612,2008,"MBA, Ph.D",10 AM - 6 PM,78,"Cafeteria, Gym, Hostels, Research Centers, Sports Complex",19.74170235499049,88.97448340771479
+Foley Ltd College,123386,2004,BBA,9 AM - 3 PM,93,"Research Centers, Sports Complex, Library",29.704375024789655,77.65013192417985
+Vasquez PLC College,65214,2011,"MBA, B.Sc, B.Tech",9 AM - 6 PM,81,"Labs, Hostels",28.15921884784144,73.0494170538393
+Estes-Cannon College,71417,1970,"M.Sc, Ph.D, BCA",9 AM - 5 PM,98,"Sports Complex, Cafeteria, Hostels",26.834531306757057,74.0980989359152
+"Ramirez, Martinez and Ellis College",114645,1955,"MBA, B.Tech, M.Sc",10 AM - 3 PM,81,"Labs, Library, Sports Complex",34.161412624405436,78.75800802016255
+Munoz Group College,261690,1990,"Ph.D, BCA, M.Sc",8 AM - 3 PM,89,"Sports Complex, Hostels, Gym, Cafeteria, Library",28.99340457959115,82.06249470725768
+"Ramos, Vega and Cruz College",99039,1985,"BBA, B.Tech, MBBS",8 AM - 4 PM,77,"Gym, Library, Labs",34.70882594931866,94.85942417781698
+"Oliver, Carrillo and Shepherd College",73923,1961,"BCA, B.Tech, MBBS",10 AM - 5 PM,70,"Hostels, Library, Labs, Sports Complex, Cafeteria",24.57595358102851,96.20202004061115
+Garcia Group College,50333,2010,"B.Tech, BBA, B.Sc",8 AM - 5 PM,75,"Sports Complex, Library, Research Centers",19.25585476509847,85.86776351071379
+Brown-Spencer College,51736,2006,"MBBS, Ph.D",10 AM - 3 PM,99,"Sports Complex, Cafeteria, Gym, Library",17.189067718792693,84.90783250607662
+Johnson-Stewart College,131603,1986,"M.Tech, MCA",9 AM - 5 PM,94,"Cafeteria, Research Centers, Hostels",14.881677768501962,74.38779634527843
+Wilkins Ltd College,185199,1990,"MBBS, MBA",10 AM - 4 PM,85,"Labs, Research Centers, Library, Gym",35.35824748611651,88.2202494672749
+Smith Inc College,172463,1957,"MBBS, MCA, MBA",10 AM - 3 PM,98,"Sports Complex, Library",20.245019101184948,73.61843588449331
+"Burgess, Hernandez and Davidson College",202662,1950,"Ph.D, MBBS, B.Sc",9 AM - 6 PM,85,"Gym, Library, Sports Complex, Labs, Research Centers",21.42635892076702,78.1347383683688
+Thompson-Klein College,263897,1970,BBA,8 AM - 4 PM,87,"Cafeteria, Gym, Hostels",14.091697507076406,75.08028246076287
+"Gonzales, Gregory and Delgado College",105822,1967,"MBA, M.Sc",9 AM - 4 PM,76,"Gym, Labs, Cafeteria",15.748307125244583,80.33705781146863
+"Martin, Carter and Sweeney College",109386,1955,"B.Tech, BCA",8 AM - 3 PM,63,"Library, Cafeteria, Sports Complex",35.659468566905105,70.5800355832439
+Johnson and Sons College,81092,1991,"BCA, MBA, MCA",8 AM - 5 PM,66,"Research Centers, Labs, Hostels, Gym, Library",11.384959639069745,74.42615410597365
+Christensen-Carrillo College,272944,1987,MCA,9 AM - 5 PM,96,"Research Centers, Cafeteria, Hostels, Library",15.90900124119844,71.3085199783419
+Green and Sons College,258284,2013,"M.Sc, MCA",9 AM - 6 PM,80,"Hostels, Research Centers, Labs, Gym, Cafeteria",35.272402872939736,71.11719875256799
+"Sanchez, Leblanc and Anderson College",102132,1984,B.Sc,9 AM - 5 PM,71,"Gym, Library, Research Centers, Sports Complex",17.91083728380648,92.48656109992055
+Jacobson LLC College,78383,1986,Ph.D,10 AM - 3 PM,94,"Cafeteria, Library",29.479467239194044,91.45696427715072
+Davis-Mcdonald College,251265,1973,"B.Tech, BCA, Ph.D",10 AM - 5 PM,91,"Research Centers, Labs, Library",21.939808115524357,92.88869159979396
+Hamilton PLC College,279618,1970,"B.Tech, M.Tech",9 AM - 3 PM,90,"Sports Complex, Gym, Hostels, Research Centers",29.59148593799545,68.27823396627822
+"Huber, Johnson and Hodge College",43010,1980,"MBBS, B.Tech, MCA",10 AM - 5 PM,98,"Research Centers, Library, Labs, Cafeteria",25.408556116810736,82.52900369254117
+"French, Graham and Meza College",55678,2007,BBA,9 AM - 4 PM,63,"Labs, Hostels, Sports Complex",26.394288680021404,81.85206524120485
+"Cooper, Shea and Noble College",195331,1982,"M.Tech, MBA, MBBS",10 AM - 3 PM,98,"Gym, Sports Complex",10.435243953717208,92.40894624348311
+"Rogers, Campbell and Cooper College",223500,1998,M.Tech,9 AM - 3 PM,72,"Research Centers, Library",19.673352653745166,87.36634052303604
+Russell Ltd College,266909,1963,M.Sc,10 AM - 3 PM,93,"Research Centers, Library, Gym, Labs, Cafeteria",25.27425291365151,68.41307493767711
+"Floyd, Lewis and Brown College",255213,2018,MBA,10 AM - 4 PM,76,"Hostels, Cafeteria, Labs, Library, Sports Complex",34.392305203064325,87.85640580914784
+Bailey Inc College,139717,1966,"BBA, M.Sc",10 AM - 5 PM,75,"Sports Complex, Hostels, Library, Cafeteria, Research Centers",18.382514591448707,69.11419318973928
+"Turner, Long and Brown College",43235,1983,"MBA, BCA",9 AM - 5 PM,81,"Research Centers, Labs, Gym, Hostels, Library",19.352263322581685,93.98482805623992
+"White, George and Lewis College",146381,1963,"B.Sc, BCA, M.Tech",9 AM - 6 PM,64,"Gym, Sports Complex, Hostels, Labs",21.698881866706145,80.94928510517856
+"Ramos, Porter and Barrett College",142861,1999,M.Tech,8 AM - 3 PM,74,"Research Centers, Sports Complex, Library, Gym",20.63708444495006,73.01033024779538
+Williams-Carter College,74421,1985,"Ph.D, B.Sc, MBA",8 AM - 3 PM,92,"Hostels, Labs, Library, Gym",10.902508667145623,83.60951599787249
+Martin-Johnson College,286808,1955,"Ph.D, BCA",8 AM - 4 PM,62,"Cafeteria, Gym",12.464986402665463,92.09436969954078
+"Wright, Hughes and Montgomery College",228934,1957,"MCA, MBA",8 AM - 3 PM,64,"Cafeteria, Sports Complex",17.719240663352082,84.80015729587578
+"Cook, Zamora and Martinez College",128326,1956,"Ph.D, BBA, BCA",9 AM - 5 PM,84,"Gym, Cafeteria, Hostels, Research Centers",24.35157055667642,91.54508024735759
+Lewis Inc College,109302,1953,"MBBS, Ph.D, B.Tech",9 AM - 4 PM,96,"Gym, Labs, Cafeteria",34.5086803855599,86.57619053898216
+Finley-Peterson College,287799,2005,M.Sc,9 AM - 6 PM,86,"Hostels, Labs",9.611313426664074,74.3115027037972
+"Scott, Nguyen and Gray College",176089,2019,"B.Sc, BCA",8 AM - 6 PM,66,"Labs, Hostels, Gym, Research Centers",14.350888222312207,70.27029916720808
+Lamb-Nelson College,171507,1968,"M.Sc, B.Sc, M.Tech",9 AM - 3 PM,85,"Labs, Hostels",26.921481636208284,89.08165717384469
+Knox Group College,89930,1993,"M.Sc, Ph.D",10 AM - 4 PM,96,"Library, Research Centers, Sports Complex, Cafeteria, Hostels",10.81209751934574,88.27101861420869
+Young-Wilson College,284216,2007,M.Tech,10 AM - 3 PM,89,"Sports Complex, Gym, Labs",33.702828168130694,91.40578035447865
+Sparks LLC College,65944,1956,"MBA, M.Sc, MBBS",10 AM - 3 PM,62,"Labs, Cafeteria, Library, Hostels, Sports Complex",26.29691307440811,85.00102124114068
+Sanchez-Riley College,96120,2009,"MCA, BCA",8 AM - 5 PM,62,"Labs, Library",27.2126677994287,72.12688740509785
+Castro-Casey College,239167,2005,"MBBS, BCA",10 AM - 3 PM,73,"Gym, Research Centers, Sports Complex, Labs, Library",20.77816166222445,69.67409952448857
+Ewing-Velazquez College,31412,1954,"BBA, M.Sc, B.Sc",8 AM - 5 PM,73,"Hostels, Cafeteria, Labs, Gym, Sports Complex",17.087666156259587,82.99345529956257
+Bolton LLC College,108579,1974,MBBS,10 AM - 5 PM,81,"Hostels, Cafeteria, Gym, Sports Complex, Research Centers",34.39322946341166,93.63469185906315
+"Martinez, Fowler and Thomas College",251570,2007,MCA,8 AM - 6 PM,81,"Library, Gym, Cafeteria",14.878783186866974,91.78014372115427
+Garcia-Hicks College,139381,2004,"Ph.D, MBA, M.Sc",9 AM - 4 PM,81,"Sports Complex, Research Centers, Labs",12.858616899917738,96.3119172167545
+Moreno Inc College,232597,2015,BCA,8 AM - 4 PM,88,"Research Centers, Labs, Cafeteria, Library",14.663496538174385,90.73775550260913
+Wright-Goodwin College,147519,1966,"BCA, MBBS",9 AM - 5 PM,66,"Gym, Research Centers",17.010567105723958,85.80544143312916
+Randolph-King College,268885,2004,M.Tech,10 AM - 3 PM,87,"Sports Complex, Labs",20.76485155617295,89.40269208170798
+"Evans, Smith and Carter College",240793,2003,"B.Sc, MBBS",9 AM - 3 PM,70,"Library, Research Centers, Cafeteria, Labs",13.31090529564409,80.87780983218012
+Lucas-Fritz College,134798,2014,"B.Sc, MCA",8 AM - 4 PM,90,"Research Centers, Library, Hostels",12.063351715673214,70.40269830755405
+Baldwin and Sons College,73854,2015,"BCA, Ph.D",8 AM - 4 PM,83,"Research Centers, Hostels, Gym, Labs, Library",11.402444206889102,70.70375400755137
+"Johnson, Carr and Ramirez College",68040,1999,"B.Sc, MBA, B.Tech",8 AM - 6 PM,80,"Gym, Cafeteria",13.850105372391978,89.51242898050226
+"Price, Moore and Andrews College",125981,1982,MBBS,9 AM - 5 PM,74,"Sports Complex, Library, Cafeteria, Hostels, Gym",33.37450944434242,69.87165094523635
+Harris-Jenkins College,164788,1974,"MBBS, B.Sc, M.Tech",9 AM - 6 PM,68,"Hostels, Cafeteria",18.963158398480218,87.88213433730259
+Vaughn-Harris College,179609,2016,"M.Sc, B.Sc",8 AM - 6 PM,79,"Cafeteria, Labs",16.054917150425837,69.22590644027602
+Ross Ltd College,74504,1999,"B.Sc, Ph.D",10 AM - 3 PM,100,"Cafeteria, Labs, Sports Complex, Library, Gym",30.868075131856553,91.85207497641893
+Liu and Sons College,160475,1976,BBA,10 AM - 4 PM,80,"Hostels, Gym, Research Centers, Sports Complex, Cafeteria",11.770181735148086,89.40295711175965
+"Howell, Mitchell and Norris College",220393,1974,BBA,9 AM - 3 PM,87,"Sports Complex, Cafeteria, Hostels, Library",34.79719944183961,74.94899073592785
+Holmes Inc College,25970,1977,"M.Sc, B.Tech, Ph.D",9 AM - 4 PM,92,"Hostels, Gym, Sports Complex, Labs, Library",13.212056917201437,84.85036294378423
+Craig and Sons College,41717,1982,BBA,9 AM - 3 PM,98,"Sports Complex, Gym, Labs",22.171333712264833,94.07016214870936
+"Garcia, Larson and Schaefer College",149493,1996,"MCA, B.Sc, M.Sc",8 AM - 6 PM,83,"Gym, Library, Hostels, Labs, Sports Complex",25.005211197143915,81.84745293500492
+Gutierrez-Wright College,198718,1964,"M.Sc, B.Sc, MCA",10 AM - 4 PM,80,"Gym, Research Centers",11.02997544748418,95.83550578414436
+"Gross, Cook and Cook College",49593,2003,MBA,10 AM - 4 PM,74,"Labs, Gym, Library, Hostels",30.189298898677958,93.87273269941358
+"Morgan, Shelton and Walker College",225014,1973,"MCA, MBBS, B.Sc",10 AM - 3 PM,100,"Labs, Hostels, Cafeteria, Gym",26.962325209160564,77.14483299343755
+Ramirez Inc College,96305,2020,"MCA, BBA, B.Tech",9 AM - 4 PM,85,"Research Centers, Cafeteria, Hostels, Labs, Sports Complex",18.696200419071893,81.5969548500766
+Kelley-Powell College,112227,1991,"BCA, B.Sc",9 AM - 6 PM,60,"Gym, Sports Complex, Library",19.346430821050113,88.10648157036297
+"Davis, Ruiz and Price College",203989,1983,BCA,8 AM - 4 PM,95,"Cafeteria, Library, Labs",9.658671638263664,77.30446738114834
+Chandler Group College,272026,1958,"MBBS, MBA",10 AM - 3 PM,95,"Research Centers, Cafeteria, Labs",8.693607745450906,71.22687968437667
+Cruz and Sons College,93786,1973,BBA,10 AM - 5 PM,87,"Sports Complex, Research Centers, Gym, Cafeteria, Hostels",24.04315973526576,76.59365449213902
+"Gomez, Barnett and Fuentes College",224951,1968,MCA,10 AM - 3 PM,97,"Cafeteria, Sports Complex, Library, Hostels",8.413365227878245,81.05036999056146
+Leblanc PLC College,86537,1952,"BCA, MCA, MBA",9 AM - 5 PM,64,"Cafeteria, Labs, Gym, Library",32.9711139189114,93.75707188586678
+"Weber, Roy and Lewis College",36792,1966,"MBA, M.Sc",8 AM - 4 PM,91,"Library, Gym, Cafeteria",34.660211752404564,81.21545056248705
+"Jones, Williams and Smith College",217887,1961,"Ph.D, BBA",9 AM - 5 PM,82,"Hostels, Library, Cafeteria",36.64472962062821,77.7280263893591
+Wood-Hughes College,230844,1952,M.Sc,9 AM - 4 PM,88,"Labs, Research Centers, Hostels, Sports Complex, Library",31.65255789948592,77.08984059125328
+Herman-Smith College,77088,1968,"M.Tech, BBA, MBA",8 AM - 6 PM,71,"Cafeteria, Research Centers, Sports Complex, Gym",36.060136316738394,74.89664382705357
+"Shaw, Castro and Young College",41254,1968,"MCA, MBBS",9 AM - 6 PM,94,"Gym, Labs, Sports Complex, Cafeteria",35.589987004539736,68.70099030807818
+Gomez-Zavala College,47942,1979,"Ph.D, B.Sc",9 AM - 3 PM,72,"Cafeteria, Labs, Gym, Library",9.445712494742018,71.33650921592684
+"Holland, Patterson and Soto College",78757,1977,"B.Tech, M.Tech",9 AM - 4 PM,96,"Labs, Sports Complex",18.59529720267539,85.97599002277474
+Simmons Group College,243684,2010,M.Sc,9 AM - 4 PM,89,"Library, Hostels, Gym, Labs, Sports Complex",16.692137224564515,77.88147007891102
+"Dunn, Bennett and Cummings College",79060,1969,"BBA, BCA",10 AM - 5 PM,69,"Gym, Library",10.670830988096439,76.78773075281947
+"Mcdaniel, Reed and Peterson College",106023,1985,"Ph.D, MBA",9 AM - 5 PM,61,"Library, Hostels, Labs",13.062875136223694,71.05507120838261
+Clark PLC College,227734,2002,"BCA, MCA, MBA",10 AM - 3 PM,80,"Hostels, Gym",28.106065463383555,82.9869613984564
+Turner-Mccarthy College,38894,1957,BBA,10 AM - 3 PM,92,"Gym, Sports Complex, Research Centers, Library, Hostels",21.20858574125497,88.89752030586628
+Morris Ltd College,262577,1969,BBA,8 AM - 4 PM,66,"Gym, Labs, Cafeteria",30.438623878650958,69.54876304078513
+"Lewis, Green and Farmer College",283208,1953,"BBA, B.Tech, B.Sc",9 AM - 5 PM,66,"Cafeteria, Gym",12.140968847478515,76.83199099546495
+"Thompson, Harmon and Brown College",201071,2003,B.Sc,9 AM - 4 PM,98,"Cafeteria, Hostels, Labs",29.645100374020394,80.55122489172102
+Holmes-Woodard College,94708,1963,B.Tech,8 AM - 3 PM,93,"Cafeteria, Research Centers, Sports Complex, Gym",29.375069476571717,74.7916770424609
+"Pham, Gillespie and Bridges College",271354,1997,"M.Tech, B.Tech, MCA",10 AM - 4 PM,98,"Library, Sports Complex, Cafeteria, Research Centers, Labs",14.402273855334716,88.7254441071727
+"Roberts, Martin and Davis College",50906,2019,"MCA, BCA, B.Sc",9 AM - 6 PM,67,"Library, Cafeteria, Hostels, Gym",15.244519467759016,83.60857303931041
+Thomas LLC College,197988,2009,"BCA, M.Sc, MBA",10 AM - 6 PM,65,"Library, Gym, Research Centers, Hostels",30.29535582954671,70.65927675541332
+Rivera LLC College,174369,1977,M.Tech,9 AM - 5 PM,65,"Sports Complex, Research Centers, Labs, Gym",35.97995968139324,96.79061928765603
+Glover LLC College,188691,2015,BCA,9 AM - 6 PM,92,"Library, Sports Complex, Research Centers, Labs, Cafeteria",27.167784361893418,70.54671351814773
+Landry Ltd College,81007,1958,"MCA, MBBS, Ph.D",9 AM - 5 PM,62,"Research Centers, Hostels",19.045515157889582,74.46283833215321
+"Mason, Sanchez and Levine College",164626,2013,"M.Sc, MBA",10 AM - 3 PM,91,"Labs, Gym",23.209884244453807,80.5206905054464
+Nunez-Hicks College,36394,1976,"M.Sc, B.Sc",9 AM - 6 PM,72,"Sports Complex, Hostels, Gym, Cafeteria",17.27791784843794,79.19501436796902
+"Lowe, Williams and Bowers College",40752,1978,"MCA, MBBS",9 AM - 6 PM,87,"Sports Complex, Research Centers, Labs, Cafeteria, Hostels",28.026155449218482,96.28480351902829
+"Harrison, Santana and Hamilton College",153301,1987,"BCA, MCA",9 AM - 3 PM,82,"Cafeteria, Gym, Sports Complex, Hostels",9.629841293977002,76.96818645426636
+Archer-Newman College,276522,1968,"MBBS, MBA",9 AM - 5 PM,97,"Cafeteria, Gym, Library, Sports Complex, Research Centers",33.1936878503064,85.11119871541116
+"Smith, Cannon and White College",82434,2003,Ph.D,10 AM - 3 PM,81,"Cafeteria, Hostels",29.59362535880233,94.3207964412061
+"Smith, Hunter and Patterson College",141137,2001,MBBS,8 AM - 3 PM,99,"Labs, Sports Complex, Research Centers, Library",18.933199902477963,94.48291687692296
+Lee and Sons College,45707,1982,"BCA, M.Tech",8 AM - 5 PM,82,"Hostels, Labs, Research Centers, Library, Cafeteria",20.461374133066688,70.46440959756241
+Walters and Sons College,165255,1999,M.Tech,9 AM - 6 PM,77,"Library, Cafeteria, Research Centers, Labs",35.84681297228322,72.17807954164729
+"Fuller, Frank and Clark College",237774,1975,M.Tech,8 AM - 6 PM,90,"Sports Complex, Cafeteria, Research Centers",15.848403160977782,75.79440345352137
+Wells-Cook College,97742,1986,"MBA, B.Tech",10 AM - 4 PM,99,"Library, Sports Complex, Cafeteria, Research Centers, Hostels",11.705738011617624,94.08323424748257
+"Glass, Wilson and Cook College",242567,1972,BCA,9 AM - 4 PM,90,"Library, Sports Complex",24.287808002263237,85.82516160693501
+Juarez-Durham College,276895,2002,"M.Sc, MCA, MBBS",9 AM - 4 PM,74,"Library, Cafeteria, Sports Complex",33.75091596891082,70.91184165247796
+Nunez and Sons College,192282,1957,"B.Tech, MBBS",10 AM - 6 PM,84,"Hostels, Sports Complex, Gym, Library, Cafeteria",36.78521604536753,93.84053142862888
+Rivera Group College,92457,1968,"BBA, M.Tech",10 AM - 4 PM,87,"Research Centers, Labs, Cafeteria, Library",36.25194548697586,82.43915457044626
+Taylor Ltd College,122851,1984,B.Tech,8 AM - 3 PM,82,"Research Centers, Hostels, Library, Labs, Cafeteria",11.589260736442434,77.81500960770589
+"Velasquez, Jackson and Johnson College",51398,1961,MBBS,8 AM - 4 PM,67,"Labs, Sports Complex, Hostels",27.76462304130879,77.3745535987992
+Ponce-Lopez College,268598,1953,"B.Tech, M.Sc",9 AM - 5 PM,68,"Research Centers, Library, Labs, Hostels",33.07561595984711,80.25355644866453
+"Mckenzie, Juarez and Henry College",160438,2016,"B.Sc, M.Sc, MBA",9 AM - 6 PM,61,"Labs, Library",35.529681825215576,74.50543262366311
+Lopez Ltd College,228446,1997,MBA,9 AM - 5 PM,80,"Hostels, Gym",19.099995055582163,93.60983329042215
+Buchanan PLC College,196737,1975,"MBBS, M.Tech, B.Tech",9 AM - 3 PM,79,"Library, Gym, Labs",35.903713860587885,89.53872511837781
+Walsh-Rosario College,67588,2017,"M.Sc, MBA, B.Tech",9 AM - 6 PM,78,"Research Centers, Library, Sports Complex, Labs, Cafeteria",32.12629638116695,78.48991797506022
+Barber-Taylor College,226339,1970,Ph.D,9 AM - 5 PM,68,"Library, Gym, Research Centers, Cafeteria, Hostels",26.855794520329653,82.14118570494851
+Garcia LLC College,72038,1999,"MCA, B.Sc, MBBS",9 AM - 4 PM,72,"Research Centers, Cafeteria, Gym, Hostels, Library",9.622440106957258,82.8215200093232
+Landry Ltd College,219575,1997,"BBA, B.Tech, MCA",10 AM - 3 PM,66,"Cafeteria, Research Centers, Library, Hostels",20.51595120246631,90.10968811210054
+"Howell, Williams and Johnson College",159280,1978,M.Sc,10 AM - 4 PM,69,"Labs, Cafeteria, Hostels",21.79023295961302,71.79632345468164
+"Smith, Schneider and Golden College",227208,1955,"BCA, M.Tech",10 AM - 3 PM,72,"Gym, Cafeteria, Hostels, Library",36.93659600026233,86.8835491219519
+Lee LLC College,212680,2006,"MBA, Ph.D, M.Sc",8 AM - 4 PM,73,"Gym, Labs, Research Centers, Library, Cafeteria",25.42269318027558,90.57141845063583
+"Andrews, Saunders and Barker College",199390,1996,"MCA, M.Tech, M.Sc",10 AM - 3 PM,72,"Hostels, Labs, Sports Complex, Library, Gym",12.966510332262779,88.54882171926873
+Nelson-Bates College,73165,1995,"B.Tech, MBBS, M.Sc",10 AM - 3 PM,74,"Sports Complex, Hostels",26.427484769825806,75.99761536291962
+Diaz Ltd College,127980,1970,B.Sc,8 AM - 6 PM,95,"Labs, Library, Gym, Sports Complex",26.18930518288441,95.45978033035246
+White-Torres College,31255,2001,"M.Tech, BBA",10 AM - 3 PM,89,"Sports Complex, Labs",29.73152080780922,73.77795390339891
+Weaver Ltd College,267632,2009,MCA,9 AM - 4 PM,82,"Cafeteria, Hostels, Library, Sports Complex",8.781399471548248,79.55144470189555
+Ellis-Burke College,95780,1981,"M.Sc, MCA",8 AM - 4 PM,64,"Library, Hostels, Cafeteria, Research Centers",28.09241567570732,76.8208336988855
+"Jones, Bender and Ho College",184602,1956,BCA,9 AM - 4 PM,75,"Research Centers, Cafeteria, Library, Sports Complex, Gym",28.766516292642578,76.88511363336384
+Newman and Sons College,212601,1970,B.Sc,10 AM - 5 PM,66,"Gym, Sports Complex, Labs, Hostels, Research Centers",11.126655640965335,96.56022337293048
+"Zimmerman, Hunter and Rocha College",194927,1992,"B.Tech, BCA, BBA",10 AM - 4 PM,94,"Library, Sports Complex, Cafeteria",20.126046933967306,84.88103108711962
+"Stokes, Miller and Harris College",60744,1975,"B.Tech, M.Sc, BCA",9 AM - 3 PM,63,"Labs, Sports Complex, Hostels, Research Centers",31.124506156047698,83.59681224503316
+Harris-Roberts College,264333,1955,"BCA, M.Sc, MCA",8 AM - 6 PM,83,"Sports Complex, Gym, Cafeteria, Library",29.32086045136493,91.92312983867863
+Butler Inc College,260098,2020,"MBBS, B.Tech",8 AM - 6 PM,71,"Research Centers, Gym",22.735442178724348,81.11987819072172
+Williams PLC College,262873,1973,"BBA, MCA",8 AM - 5 PM,72,"Library, Labs",28.158863794117188,81.73379092541538
+"Johnson, Rosales and Jackson College",69929,1987,"Ph.D, M.Tech",10 AM - 5 PM,66,"Cafeteria, Hostels, Library, Research Centers",29.697432393112255,80.12731680887569
+Gordon-Zhang College,128919,1993,"MBA, B.Tech",8 AM - 6 PM,98,"Cafeteria, Hostels, Research Centers, Gym",26.285714836856858,81.81280652284394
+Walker-Perez College,32457,1981,MBA,10 AM - 5 PM,100,"Sports Complex, Cafeteria, Gym, Hostels",30.33202162598469,71.12067667319003
+Hernandez-Graham College,257541,2007,"M.Tech, B.Sc, M.Sc",9 AM - 5 PM,72,"Cafeteria, Library, Gym, Sports Complex, Research Centers",31.081352932730816,82.30226065110556
+Gonzalez Group College,82001,1950,"M.Sc, MBA",9 AM - 6 PM,78,"Hostels, Gym, Sports Complex, Cafeteria",9.714034761183893,93.95505309362603
+"Ramirez, Smith and Hays College",230984,1973,"M.Tech, M.Sc, BCA",9 AM - 3 PM,60,"Gym, Sports Complex",12.8668634816239,82.98078626284347
+Colon-Swanson College,151357,1976,"Ph.D, B.Tech, B.Sc",9 AM - 6 PM,64,"Sports Complex, Research Centers",19.05216924129077,76.4698713896734
+Davis-Rogers College,27152,1993,"B.Tech, BBA",10 AM - 6 PM,95,"Library, Hostels, Cafeteria, Sports Complex, Research Centers",15.128990246964275,81.51262723511225
+Smith-Taylor College,233276,1992,M.Tech,10 AM - 5 PM,67,"Cafeteria, Labs, Library, Research Centers",8.88982381398529,91.27017494719927
+Hall-Wiggins College,248180,1960,Ph.D,10 AM - 5 PM,85,"Sports Complex, Research Centers, Library, Gym, Labs",8.802953235758734,74.79076112056497
+Ross and Sons College,131869,1998,B.Tech,10 AM - 5 PM,95,"Library, Labs",35.23070089256234,78.1876227676247
+Payne PLC College,192054,2011,"MBBS, M.Sc",8 AM - 4 PM,60,"Labs, Library, Gym, Cafeteria",31.102194803091653,95.41232514254494
+"Brennan, Moore and Alexander College",217214,1951,"B.Tech, BBA, M.Sc",8 AM - 3 PM,97,"Gym, Hostels, Research Centers",29.99192133272539,68.12858311196028
+"Osborn, Reilly and Moore College",127952,1992,"BBA, Ph.D",8 AM - 3 PM,96,"Hostels, Labs, Gym",27.75523998882016,76.5917180124899
+Taylor PLC College,125708,1985,"M.Tech, M.Sc, B.Sc",10 AM - 5 PM,70,"Cafeteria, Labs, Sports Complex, Research Centers",30.15675653099694,87.82731643832703
+Watkins and Sons College,123025,1972,"MBBS, BBA",10 AM - 3 PM,75,"Labs, Library, Research Centers, Gym, Cafeteria",13.216014699664154,85.99727464528623
+Thomas-Nguyen College,285434,1969,"MBBS, MCA",9 AM - 6 PM,80,"Sports Complex, Hostels, Research Centers, Gym",25.655574655806344,79.43155343900074
+Brown-Park College,104029,1992,"Ph.D, MBBS",9 AM - 3 PM,66,"Cafeteria, Library, Research Centers",36.213834936648986,88.90390449997219
+Hartman PLC College,280473,2003,"BCA, MBA, B.Sc",10 AM - 3 PM,73,"Gym, Hostels, Labs, Sports Complex",28.908108945308808,77.96236534034489
+"Terrell, Walters and Martin College",69088,1992,"MCA, BBA",8 AM - 6 PM,91,"Labs, Gym",10.054490796522806,84.5563624867242
+"Zimmerman, Lopez and Meza College",208851,1980,B.Sc,10 AM - 4 PM,73,"Labs, Gym",12.558052871107446,91.02783259919696
+Hall PLC College,245687,2020,MBBS,8 AM - 3 PM,100,"Sports Complex, Cafeteria, Library",8.71233116639471,90.36884080652693
+"Mcconnell, Grant and Graham College",210251,1989,"Ph.D, B.Sc, BBA",10 AM - 6 PM,78,"Research Centers, Labs",10.12026287344521,84.24864063142147
+"Pearson, Black and Harris College",195477,2014,"Ph.D, M.Tech, B.Sc",10 AM - 6 PM,61,"Library, Sports Complex, Cafeteria, Hostels",32.01040065323461,75.14854891939173
+Nichols Ltd College,273213,1972,"MBBS, Ph.D, B.Tech",10 AM - 4 PM,72,"Labs, Gym, Hostels, Sports Complex, Library",27.652317404960186,80.81259779883017
+Powell Inc College,118631,1988,"MBBS, M.Tech",8 AM - 5 PM,81,"Research Centers, Hostels, Labs, Library, Sports Complex",19.18802275572749,76.2044212808658
+"Short, Anderson and Schmitt College",105055,2016,"Ph.D, MBBS",8 AM - 3 PM,70,"Cafeteria, Research Centers, Gym, Labs",30.29573463527356,68.29389532964244
+Flynn-Sanders College,165085,1983,BBA,10 AM - 3 PM,69,"Labs, Cafeteria, Hostels, Research Centers",16.86890974659877,75.29737358878515
+West Ltd College,80050,1956,"BCA, MBA, M.Sc",8 AM - 5 PM,92,"Hostels, Sports Complex, Labs, Library",24.456167982899384,71.74247385139785
+Hester and Sons College,161668,1972,"MCA, BCA, MBA",9 AM - 4 PM,93,"Labs, Gym, Research Centers, Library",10.487771961538025,75.5195866936107
+Allen-Cochran College,289589,1954,"Ph.D, M.Tech",8 AM - 4 PM,89,"Labs, Hostels, Cafeteria, Research Centers, Sports Complex",36.44199116730527,89.36236828253304
+Mccormick Ltd College,230811,1991,"MBBS, MCA, MBA",9 AM - 6 PM,69,"Gym, Labs, Sports Complex, Cafeteria, Hostels",32.5578955387078,69.60312882592284
+"Hart, Paul and Caldwell College",24931,1978,"MCA, MBA, BBA",9 AM - 4 PM,65,"Research Centers, Hostels, Sports Complex, Labs, Gym",36.50218527567519,87.99967062057041
+Carlson-Ochoa College,144623,2009,"B.Sc, Ph.D, M.Sc",9 AM - 4 PM,85,"Research Centers, Cafeteria",28.359690418845535,89.7948061693071
+Anderson-Stevens College,97116,1975,"B.Tech, MCA",8 AM - 3 PM,88,"Cafeteria, Sports Complex",12.201728918923848,93.56804762379303
+Smith-Stevens College,80406,2003,B.Sc,8 AM - 3 PM,70,"Labs, Research Centers, Gym",30.62569203278198,93.08750014516053
+"Blair, Gomez and Fitzgerald College",195980,2002,Ph.D,10 AM - 4 PM,73,"Labs, Library",12.621027486231133,89.85910468901463
+Gonzalez LLC College,291557,2015,"MBA, BCA, MCA",8 AM - 6 PM,63,"Hostels, Library, Labs, Cafeteria",8.203042551275942,72.46869737087462
+Jarvis-Harris College,248938,1958,"Ph.D, BCA",9 AM - 3 PM,97,"Labs, Gym, Research Centers",24.738879357402453,71.2630461356964
+Freeman Inc College,252704,1979,"MBBS, B.Sc, M.Tech",9 AM - 3 PM,92,"Sports Complex, Research Centers, Cafeteria",10.248649138462499,79.23691433599186
+"Wood, Scott and Rogers College",77334,1983,MBA,8 AM - 3 PM,62,"Gym, Sports Complex, Labs, Hostels",27.51132278354585,96.46805357557578
+Carter-Baxter College,74727,1955,"MCA, M.Tech",10 AM - 4 PM,90,"Library, Cafeteria",28.966283636462553,92.89226105747224
+Gray PLC College,213778,1998,M.Sc,10 AM - 4 PM,98,"Hostels, Labs",30.691091687456453,75.75469688922036
+"Reid, Nguyen and Stewart College",84173,2000,M.Sc,8 AM - 6 PM,95,"Research Centers, Library, Gym, Sports Complex, Cafeteria",26.243957146505075,71.11228828823299
+Cohen-Snyder College,270562,1997,MCA,9 AM - 3 PM,68,"Research Centers, Labs",18.742697322391507,76.60687329879134
+Carpenter Group College,271447,1959,BCA,9 AM - 4 PM,66,"Library, Hostels, Sports Complex",21.033970018008546,71.62516810920681
+"Gordon, Higgins and Lopez College",266967,1987,"B.Tech, MCA",10 AM - 5 PM,62,"Gym, Cafeteria, Labs, Hostels",15.592045926141035,83.21284673582852
+Norris and Sons College,105157,1998,"B.Sc, MBA",9 AM - 4 PM,64,"Research Centers, Sports Complex, Labs, Cafeteria",12.144417011482615,72.94592110730565
+Lara-Smith College,164242,1957,"MBBS, M.Sc, MCA",8 AM - 6 PM,94,"Research Centers, Labs, Library, Sports Complex",36.80043986803118,81.51097084318802
+Taylor-Gutierrez College,118739,1983,"MBA, B.Sc, M.Sc",10 AM - 6 PM,61,"Hostels, Sports Complex",34.03472644558873,79.32135207805686
+Smith-Ross College,51553,2012,"B.Sc, BBA, Ph.D",10 AM - 3 PM,77,"Gym, Hostels, Research Centers, Cafeteria, Labs",23.261455487851556,83.69905895729833
+Thompson Ltd College,236351,1960,B.Tech,9 AM - 3 PM,88,"Labs, Cafeteria, Research Centers, Sports Complex",35.13936231628625,90.1808864007084
+Aguirre and Sons College,38898,1991,BBA,10 AM - 4 PM,85,"Gym, Labs, Research Centers, Cafeteria",35.68467080233777,68.84771575314485
+Medina-Rhodes College,25201,1972,BBA,10 AM - 3 PM,88,"Sports Complex, Gym",23.456337224110595,72.76508532212696
+Todd PLC College,58236,1984,M.Tech,9 AM - 4 PM,93,"Library, Labs",27.31728830032139,79.52037829554874
+Bass LLC College,279820,2013,M.Sc,8 AM - 6 PM,71,"Library, Gym, Research Centers, Sports Complex",23.09166290064562,84.80331227939816
+Brown-Howell College,209364,2015,"B.Tech, MCA, BCA",10 AM - 6 PM,67,"Research Centers, Library, Labs, Sports Complex",21.451862862977336,75.18369329130915
+"Woods, Martinez and Armstrong College",196310,1965,"MCA, BBA, MBA",10 AM - 4 PM,81,"Hostels, Sports Complex, Gym, Labs",19.007392897278592,96.16223608396496
+Sims LLC College,90483,1964,Ph.D,8 AM - 3 PM,68,"Labs, Cafeteria",17.80212261754768,75.31977483468168
+Parks-Wood College,214827,2020,"B.Sc, B.Tech, Ph.D",9 AM - 5 PM,61,"Sports Complex, Library",23.203097478542634,86.03563520311073
+Jackson-Richards College,239545,1973,"M.Sc, Ph.D",9 AM - 6 PM,64,"Cafeteria, Hostels",30.179919357042284,92.79861323863659
+Morris-Santos College,259113,2015,BCA,9 AM - 6 PM,92,"Hostels, Cafeteria",29.866696168685554,73.07000501556868
+Rodriguez-Page College,232804,1954,"MBA, M.Tech",10 AM - 6 PM,95,"Labs, Cafeteria, Hostels",8.477094660923878,85.13065326848002
+Hodge-Keller College,279834,2017,BBA,10 AM - 5 PM,94,"Research Centers, Cafeteria, Library, Hostels",34.78362872525088,68.35136647681665
+"Taylor, Reed and Curtis College",298314,1955,"MBBS, M.Tech, B.Sc",8 AM - 4 PM,75,"Research Centers, Library, Sports Complex",24.55649979551882,79.17299050342024
+Burns PLC College,185740,1990,"M.Sc, MBBS",10 AM - 6 PM,86,"Gym, Research Centers",24.305029911802574,86.45307248288485
+Johnson-Grant College,248435,2007,MBA,8 AM - 4 PM,76,"Research Centers, Sports Complex, Gym, Library",32.329639094769675,91.41517580270894
+"Wong, Jenkins and Harris College",27938,1988,"M.Sc, BCA, M.Tech",8 AM - 3 PM,73,"Cafeteria, Sports Complex, Research Centers, Library, Gym",11.186789181708326,73.90993978631501
+Williams-Lutz College,129833,1963,"B.Tech, MBBS",8 AM - 5 PM,62,"Hostels, Cafeteria, Library",11.370295135830567,75.52283883241554
+"Robinson, Brown and Stark College",244061,1990,"MBBS, BCA, BBA",9 AM - 6 PM,93,"Library, Research Centers",22.681451553867614,90.64236914435297
+Garcia-Stevenson College,96441,1981,"B.Sc, Ph.D",9 AM - 3 PM,77,"Cafeteria, Sports Complex, Hostels, Gym, Labs",11.66247810637886,79.17365606600242
+Simmons PLC College,263455,1962,BBA,9 AM - 5 PM,74,"Sports Complex, Labs, Cafeteria, Research Centers, Gym",25.393449191181748,94.24269448025794

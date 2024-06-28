@@ -1,0 +1,8 @@
+[
+    {
+        "user_name": "manish",
+        "user_location_query": "Mumbai",
+        "course_query": "BCA",
+        "bot_response": "Here are some colleges near manish offering BCA:\nCollege Name: Jones, Bender and Ho College\nFees: 184602\nEstablished On: 1956\nCourses Offered: BCA\nClass Timings: 9 AM - 4 PM\nCutoff Marks: 75\nFacilities: Research Centers, Cafeteria, Library, Sports Complex, Gym\nDistance: 35.89 km"
+    }
+]
