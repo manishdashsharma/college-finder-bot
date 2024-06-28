@@ -21,7 +21,7 @@ College Finder Bot is a Python script that helps users find nearby colleges base
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/college-finder-bot.git
+   git clone https://github.com/manishdashsharma/college-finder-bot.git
    cd college-finder-bot
    ```
 
